@@ -27,7 +27,7 @@ class DataGenerator(Object):
         for news, index in r_news, xrange(len(r_news)):
             id = news['id']
             content = news['content']
-            sent_tokenize_list = [x.strip() if x.strip() for x in nltoken.sent_tokenize(content)]
+            sent_tokenize_list = [x.strip() for x in nltoken.sent_tokenize(content) if x.strip()]
             post_sent_tokenize_list = []
             per_news_content = '\n'.join(sent_tokenize_list)
             per_news_name = 'news_{0}.txt'.format(index,)
@@ -38,12 +38,5 @@ class DataGenerator(Object):
             r_comment = cur.fetchall()
             for comment in r_comment:
                 content = comment['content']
-                #post_content = 
         cur.close()
         self._close()
-
-    def post_process(self):
-
-    
-
-    
