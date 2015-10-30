@@ -1,9 +1,17 @@
 #-*- coding:utf-8 -*-
+import os
+import logging
 import MySQLdb
 import MySQLdb.cursors
 import nltk.tokenize as nltoken
 
 
+def write_file(name, content):
+    f = open(name)
+    f.write(content)
+    f.close()
+
+    
 class DataGenerator(Object):
     def __init__(self, news_table_name, comments_table_name, outpath):
         self.news_table_name = news_table_name
@@ -28,22 +36,26 @@ class DataGenerator(Object):
             id = news['id']
             content = news['content']
             sent_tokenize_list = [x.strip() if x.strip() for x in nltoken.sent_tokenize(content)]
-            post_sent_tokenize_list = []
             per_news_content = '\n'.join(sent_tokenize_list)
-            per_news_name = 'news_{0}.txt'.format(index,)
-            per_comment_name = 'comment_{0}.txt'.format(index,)
-            comments_content = []
+            per_news_name = os.path.join(self.outpath, 'news_{0}.txt'.format(index,))
+            per_comment_name = os.path.join(self.outpath, 'comment_{0}.txt'.format(index,))
+            
+            comments_list = []
             sql_comment = 'select content from %s where news_id = %s' % (self.comments_table_name, id)
             cur.execute(sql_comment)
             r_comment = cur.fetchall()
             for comment in r_comment:
-                content = comment['content']
-                #post_content = 
+                content = comment['content'].strip()
+                l_content = content.split()
+                if len(l_content) > 5:
+                    comments_list.append(' '.join(l_content))
+            per_comment_content = '\n'.join(comments_list)
+            write_file(per_news_name, per_news_content)
+            write_file(per_comment_name, per_comment_name)
+            print '{0}th news and comments are generated!'.format(index,)
         cur.close()
         self._close()
 
-    def post_process(self):
-
-    
-
-    
+if __name__=='__main__':
+    dg = DataGenerator('news_mh370', 'comments_mh370', './data/mh370')
+    dg.generate_news_comments()
