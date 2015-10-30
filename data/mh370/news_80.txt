@@ -1,0 +1,49 @@
+KUALA LUMPUR, Malaysia (AP) — The Malaysian government on Tuesday released 45 pages of raw satellite data it used to determine that the missing jetliner crashed into the southern Indian Ocean, responding to demands for greater transparency by relatives of some of the 239 people on board.
+It wasn't immediately clear whether the data would enable independent experts to replicate the calculations that led to the international investigation team's conclusion.
+At least one satellite engineer said it failed to include needed assumptions, algorithms and metadata.
+As the search for the jet prepared to pause while new equipment is obtained, an Australian government report said an analysis of the final brief data exchange, or "ping," between the aircraft and a satellite suggested the plane crashed into the sea because it ran out of fuel.
+Almost three months since it went missing en route to Beijing from Kuala Lumpur, no trace of the jet has been found, an agonizing situation for family members stuck between grief and the faintest hope, no matter how unlikely, their loved ones might still be alive.
+The mystery also has nurtured speculation and wild conspiracy theories.
+Several family members have been highly critical of the Malaysian government's response, accusing them of failing to release timely information or even concealing it.
+The government, which in the early days struggled to release reliable information about the plane's movements, insists it is being transparent in what has been an unprecedented situation.
+An international investigation team led by Malaysia has concluded that the jet flew south after it was last spotted on Malaysian military radar and ended up in the southern Indian Ocean off western Australia.
+This conclusion is based on complex calculations derived largely from brief hourly transmissions between the plane and a communications satellite.
+The families had been asking for the raw data from the satellite, operated by British company Inmarsat, for many weeks.
+In a posting on its Facebook page, a group representing some of the families said: "Finally, after almost three months, the Inmarsat raw data is released to the public.
+Hope this is the original raw data and can be used to potentially 'think out of the box' to get an alternative positive outcome."
+In China, home of about two-thirds of the passengers, several relatives said they were not informed by Malaysia Airlines ahead of the release.
+Steve Wang, whose mother was on the plane, said he was disappointed that the release did not contain an account of exactly what investigators did to conclude the plane had taken the southern route.
+"We are not experts and we cannot analyze the raw data, but we need to see the deduction process and judge by ourselves if every step was solid," he said.
+"We still need to know where the plane is and what is the truth.
+We know the likelihood that our beloved ones have survived is slim, but it is not zero."
+As a result of the analysis of the data, a massive air, surface and underwater search has been conducted in the southern Indian Ocean.
+Having found nothing, it will stop Wednesday for several months while new powerful sonar equipment is deployed, officials say.
+The next search phase will be conducted over a much bigger area — approximately 60,000 square kilometers (23,000 square miles) — and will involve mapping of the seabed.
+The area's depths and topography are largely unknown.
+The technical data released Tuesday consists of data communication logs from the satellite system.
+The plane's transmissions to the satellite were never meant to track its path, but investigators had nothing else to go on because the plane's other communication systems had been disabled.
+Investigators determined the plane's direction by measuring the frequency of the signals sent to the satellite.
+By considering aircraft performance, the satellite's fixed location and other known factors such as the amount of fuel on board, they determined the plane's final location was to the south of the satellite.
+In an interview with CNN earlier this week, Inmarsat chief engineer Mark Dickinson said he was confident of the data.
+"This data has been checked, not just by Inmarsat but by many parties, who have done the same work, with the same numbers, to make sure we all got it right, checked it with other flights in the air at the same, checked it against previous flights in this aircraft," he said.
+"At the moment there is no reason to doubt what the data says."
+Congregating in Internet chat rooms and blogs, many scientists, physicists and astronomers have been trying to replicate the math used, either as an intellectual exercise or out of a belief they are helping the relatives or contributing to transparency around the investigation into the missing plane.
+Initial reactions to Tuesday's data were not positive.
+"It's a whole lot of stuff that is not very important to know," said Michael Exner, a satellite engineer who has been intensively researching the calculations.
+"There are probably two or three pages of important stuff, the rest is just noise.
+It doesn't add any value to our understanding."
+Duncan Steel, a British scientist and astronomer, said some of the data "may" explain the belief that the aircraft went south rather than north, but that further confirmation would take a day or so.
+But he too was disappointed.
+"One can see no conceivable reason that the information could not have been released nine or 10 weeks ago.
+Even now, there are many, many lines of irrelevant information in those 47 pages," he said in an email.
+Soon after takeoff, the plane disappeared from commercial radar over waters between Malaysia and Vietnam.
+The search was initially focused there but gradually shifted to the west of peninsular Malaysia.
+Authorities say they believe the plane was deliberately diverted from its flight path, but without finding the plane or its flight data recorders have been unable to say with any certainty what happened on board.
+The final "ping" message sent to the satellite didn't coincide with the previous, hourly pings.
+In a report on its website titled "Considerations on defining the search area," the Australian Transport Safety Bureau said the message was a "logon request from the aircraft that was consistent with satellite communication equipment on the aircraft powering up following a power interruption."
+It said the interruption may have been caused by fuel exhaustion.
+Given that investigators believe the plane was deliberately diverted, the role of the pilots has come under scrutiny.
+Much of the speculation has centered on whether the aircraft could have suffered a mechanical failure in which the pilots struggled to regain control before all on board were somehow incapacitated, or whether it was crashed deliberately.
+___
+Brummitt contributed from Hanoi, Vietnam.
+Associated Press writers Kristen Gelineau in Sydney and Didi Trang in Beijing contributed to this report.

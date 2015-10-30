@@ -1,0 +1,503 @@
+Apparently, Malaysia Airlines is content with this prolonged searching for wreckage of MH370. It’s been 8 months since the flight disappeared. Investigators should now focus on some of the more esoteric even ts that may have caused of this disaster. From the start, national investigators have focused on areas of the southern Indian Ocean. There’s also been a subtle hint of involvement of the plane’s Captain. However, independent investigators recently focused their efforts on a part of the Boeing 700-200 passenger cabin known as the Electronics and Equipment Bay (E/E Bay). This Bay contains circuits that regulate satellite communications and is located on the floor, between the cockpit and the 1st class seating area. Besides not being accessible from the cockpit, pilots are not trained in the innerworkings of the E/E Bay. Evidence indicates that this Bay on March 8 was the portal of entry to disconnect satellite communication on the tragic night. Also, curiously the E/E Bay was later entered to reconnect all satellite communication. There may have been varied reasons for the slow pace of this rather unorthodoxed investigation; But there’s strong indication that this plane was the victim of a very sophisticated hijacking.
+I have worked on the 'Blackbox" at honeywell as a consultant. There are two things that the blackbox needs. First it needs to lower the ping frequency. Lower frequencies equal longer range. Lower it to the 10Khz range. Secondly they need a supporting power source. A sacreficial anode built into the pinger would power the pinger for an extended period of time. I have no idea why they selected the frequencies they did. Probably to increase the signal to noise ratio and to not disturb the environment. The sacreficial anode is a no brainer and could extend the pinger output for years.
+It has a lot to do with absorption and dB loss when introduced into an underwater environment.
+Exactly - The Loss is lower with lower frequency. Resulting in longer range. The existing pingers are in the 30khz range. 10 - 20 khz would buy them alot in terms of range.
+Essentially that is what a chirp pinger does. It sweeps through multiple frequencies with each pulse. I attempted to go to Grant.gov to see if a private individual could make a suggestion to the FAA, with no luck
+No need to lower ping rate if a sacraficial anode is used to constantly recharge a battery. Of course a voltage detection circuit could be used to prevent a ping while a low voltage is detected. This same circuitry has been around since the 1980's. As the previous poster implied it needs to come into the 21st century
+If you really want to put some technology in a 21st century black box. It is conceivable that a floatable unit could be released on impact from ,say, the tail section that transmits the last known earth coordinates along with an identification key. This would potentially work over land or at sea. Strange that we should be discussing this on YAHOO. We need an FAA person on this thread.
+We are ahead of our time. Today an article headlined that Boeing and Airbus are talking about ejectable Blackboxes. Now if they would just consider inproving them.
+Hats off to Australia for their time, money and effort. It should be on Malaysia's nickel.
+TRUE.... Those Australians are Persistent .....
+malaysia dosent want to locate the plane or passengers, they are more interested in setteling on the cheap, to date they have givin a token $ amount ti the berived families, as cuse and blame has not been established. they wish to keep it that way, as it seems like there employee is at fault,(pilot) hence others are sesrching when they do not wish to when in fact they shold be leading the charge or employing the best possible to do the job. Actions speak louder thsn words, and fly any one else you can in the mean time.
+I love your concern over money, especially since it isn't yours.
+Too sad so many American sons are concerned over whose footing the bill (besides me) instead of having some degree of humanity in their character.
+What liberal jackasses we have. Its not about $ you idiots. Do you have a vested interest? Do you really think there is a possibility to find this plane? Did you know that Samsonite luggage is water proof just as many others items are. Do you ever have a thought that may be original and for the best interest of humanity? Do you think that you and your money can resolve this? Do you believe ...........
+An uncle went missing in 1979. I was 14 years old at the time and our family was really close with this particular uncle (my mother's older brother). It was completely out of the blue. No reason for him to leave, happy family, happy in his job, loved his life - was enthusiastic about one of his cows being pregnant. Then one day, just...gone. No trace of him has ever been found. No clues, no nothing. "Closure" is a strange concept. We all wonder - still - what happened to him, but we also know the likelihood is that he's dead. After the necessary time periods passed he was declared dead. Affairs were settled. The family held a service for him and a marker was placed at the cemetery with other relatives. The "closure" wasn't what we wanted - definitive news of my uncle - but the ceremony closed things for everyone to the extent that life continued from that point. All of this to say that "closure" is situational and vague. It's most likely, pretty much certainty, that these people are dead. Their loved ones will never have them back. The governments of the nations involved should expedite the determination of death so that families can settle the affairs and move on.
+@Kestrel Sakai~Sad story, I am sorry for your family. I agree that our government should do ALL they can to find that plane. Someone certainly knows something.
+My brother in laws disappeared in a mysterious way in the refugee camp. On an island, in a middle of an ocean, where could he go? It has been 30 years and i would never forget that day when he said Goodbye!
+I'm no technology guru but wonder if all my computer pictures are easily linked to the "iCloud", why aren't Black Boxes done the same way? Having to search oceans and desolate mountain terrain for these things in such a limited time frame seems so futile?
+PLEASE find this plane, not only for the sake of kin, but also to stop the silly conspiracy garbage.
+They'll still believe the BS regardless
+Wow, everyone is complaining about the government and not even thinking about the most important part of this search; the people who died. I know if someone I loved was on that plane, I would want to know.
+I hope they have some luck this time around. Peace of mind to the victims families.
+I wish the best intentions for the families of those who perished aboard that flight. However, I believe that at this point, let the dead bury their own dead. What has occurred cannot be undone. It seems to be a colossal waste of money to search so furiously for the wreckage that could be prohibitively deep and isolated for the ease of our technology to reach it. For centuries, shipwrecks left families and those associated with their victims without direct answers, except for the implications that they could have died that way. If the plane could be found, then what is to be done? It can't restore the lives that were lost. I seriously doubt that this plane is anywhere but in the depths of the sea or an otherwise isolated terrain, with the passengers being victims of a merciless, suicidal pilot.
+About the only thing finding the plane MAY accomplish is figuring out what happened - there sure as hell won't be any recovery of remains since the bodies have long since been turned into fish food. Good luck on the hunt.
+My first thought is...I'm still so very saddened by the loss of so many. Horrible, horrible, sickeningly unnecessary violence toward our fellow human beings!! No matter how hard I try, I am unable to make even the smallest amount of sense out of the action of those responsible! I have to "re-group" my thoughts...then my mind swings around with the idea that I'm just blown away by the images they've gotten from the mapping! Being able to gain at least SOMETHING positive from this tragedy! Think of how much this is going to do to help the scientific community!! And just the things I can come up with are probably just the tip of the iceberg of possibilities! It will most likely take many many years to get all of the information out of this! I wish that we would stop wasting money on stupid wars and trying to clean up our messes, that should NEVER have happened in the FIRST place! Think how awesome it would be to have this kind of mapping of EVERY inch of our gorgeous oceans!!
+Don't be overly anxious about something you can do nothing about. God knows where it is and he can reveal it to us anytime, if he so chooses. MATT. 6:32, 33.
+We are just God's witnesses an Jesus was. But I suppose you would hate him, as well?
+Just sharing some good news, as Jesus did. No problem was too large that he couldn't comfort them from his fathers words. The same is true today. See JWDOTORG. 2TIMOTHY 3:16.
+Are you retarded? This was a mechanical malfunction. Not a shot down plane. That was the other one. Read much?
+Name calling, and knowing it all. Another personality trait of non Christians. :(
+Got some news for ya Jamie...there WAS no Jesus as a "single" entity! The Jesus referenced in the Bible was a complete piece of fiction. The "miracles" that the Bibles author/s claim to have happened, were all actions attributed to several different men. All claiming to be "THE" prophet. Emperor Constantine, third century, was the one that created your Bible. He and his "committee" decided which of the, literally THOUSANDS of books that were floating around at the time, were to be included in the book. They chose the most popular, then sort of "merged" them together to form a, more or less, cohesive story. Which explains why the story is so disjointed. All those different "books" had a prophet that performed one or more "miracles" to "prove" their faith. In order for Emperor Constantine to create a linear story line decided to merge them together into a single person. This produced the same effect, but was less "messy". So, just saying, you might want to spend a little MORE time researching your OWN information and a little LESS time spreading un-legitimized quotes from an "iffy at best" resource!
+And Ed Q....they have NO idea WHAT actually happened to this plane! They certainly have no actual FACTS to support that was definitely a "mechanical malfunction"! SO many things would have HAD to have happened for it to be just a mechanical issue...that I find it HIGHLY unlikely that this is what happened! So unless somehow YOU have managed to get information that the experts DON'T have...you might want to share it with them, because they are certainly unaware of this info!! NOW who's the #$%$"?
+Lori, you ever heard of the Dead Sea Scrolls? Ya, historians all agree they are from around 700 years before Rome even existed. They have the entire book of Isaiah and many other books of the Bible. Emperor Constantine was a nutjob that tried to combine the church with the state. He actually succeeded in many ways, but to say he wrote the Bible, shows you really,really, really, & I mean really need to do like a 4th grade class on History. :( Shame.
+Ever heard of the "Epic of Gilgamesh"? I didn't say he WROTE the stories...I said he COMBINED the stories. The fact that, after ALL the scientific discoveries since the "creation" of the bible, you STILL believe that some God like being exists...only shows that that old saying is still sadly true. There IS a sucker born every minute! You have ZERO proof of anything in the bible...and STILL think that everything in it is the truth. Of course you're going to say...you don't HAVE to because you have "faith" that it's true. But, if I say it's a bunch of garbage some goat herders made up...and I know THAT is the truth...because I have "faith" that it is....you call ME an idiot?? Explain why I'M wrong and YOU'RE right? At least "I" have scientific proof on my side. And I would appreciate it if you would keep your brainwashed idiocy to yourself, and not try to RAM your special kind of stupid down MY throat! I have the right to my OWN belief system without having to tolerate having someone else's FORCED on me!
+Well, there's plenty of proof to prove the Bible is inspired of God. 100s of prophecies were fulfilled. Just one was written by Isaiah and Jeremiah some 200 years before it happened and that was the fall of Babylon. Isaiah even named the king before he was born, Cyrus. He also spoke that the greatest city on earth would fall in one night! It did! Amazing predictions like this cannot be explained away by science, but can be confirmed by historians. Also, much of the advice the Bible gives on health, marriage, child raising and so forth all proves beneficial today, some 2,000 years later! The Bible foretold the earth was round at a time most people believed it was flat! It also foretold the earth is hanging on nothing, how the water cycle works, the reproductive system of humans, the way many insects and animals survive, which science has only recently begin to touch on. True science does not disagree with the Bible. That's a common misconception. I know scientists who believe that the complexity of life and even one tiny Atom could not originate on its own. Furthermore, Life only comes from life that I've seen. Have you seen any form of life come about any other way? No. There's your proof.
+The website also has information on creation vs. evolution and what many "believing" scientists say.
+If they were investigating the passengers and connect the dots they would find it sooner.
+I can't imagine how the people who lost someone on that plane are dealing with this.I guess the best they can.
+Maybe they just lost a member of their family that they hated anyway.
+I would look for MH730 on land. Maybe Sumatra.
+I am confidant they will find the ocean floor. They should give us a grid map with labels so we can play an underwater version of cow patty bingo. Put me down for $20 on G-18
+4 month hiatus? What? Why don't they just wait until all the water in the oceans boils off
+I remember commenting on this back in March after the plane had been missing for a couple weeks and facts began to come out on the circumstances. The transponder had been turned off as I remember it, the plane had changed course and there was no communication. My first thought was this plane was hijacked, flown under radar and landed at an unknown location for later use in a sinister purpose. Now fast forward to June when ISIS started to become news because of their lightning advances in the middle east capturing vast swaths of territory. Their conquest started about the same time as when this plane went missing. All the signs point towards a hijacking because the transponder had been manually turned off, the fact the plane made a slow turn and no longer on radar. I still to this day think this is what happened and it wouldn't surprise me at all if ISIS was behind it.
+I thought Courtney Love already solves this mystery?
+I said before, if they want to find that plane just go and look in iran that hellhole over there because the pilot was an Iranian and Osama this moron knows right where it is but keeps spending billions of our tax dollars to search nothing, just to cover it all up again.
+If they find any gold or treasure down there then they must turn it over to the Australian Government.
+I would be very surprised if the plane is ever found. That is such a vast search area and that area is a calculated guess. I remember a passenger flight going down in deep water a few years ago. They had the telemetry that told them precisely where the plane was when signals stopped. It still took searchers two years to find the wreckage. More like a bb in a haystack.
+"Malaysia and Australia are each contributing around $60 million to fund the search." Is China contributing too?
+May God give these families closures once and for all.
+to the stupid people thinking this is been funded by the US. it clearly says "Malaysia and Australia are each contributing around $60 million to fund the search." sooo yea #$%$ off
+It sucks it happened and I feel for those families that will never have that closure but that plane is long gone. It's most likely sitting thousands of feet down at the bottom of the ocean never to be seen again.
+Sitting under thousands of feet of water does not at all mean it is lost. It is a needle in a haystack but finding it would be so valuable and beneficial that it is well worth the effort.
+I just can't imagine never knowing what happened to one of my loved ones. To have someone I care about just disappear in such a horrific way would drive me insane. I pray these families one day get closure. Such a heart breaking ordeal for anyone to go through.
+Do you even begin to know how much has already been spent and here we go again. It might be different if someone knew where it was. As far as never knowing what happened to the plane, it went in the ocean somewhere. As far as the people they went with it. Why, where, how, it does not matter. The people are gone. Like at Pearl Harbor with the USS A. that is their burial ground. Leave this airplane alone. The only reason the families want the black box is so they can sue the airline.
+How can you presume to know what any of the family members would do?
+Thank you Australia for stepping it up so that the families can have {some type of closure}. If more countries where like you and did more acts of kindness and the USA it surely would make this planet a nicer place to be. Thank you for your kindness and consideration.I speak for the entire country of the USA ............P R A Y F O R P E A C E O N EARTH !
+Dumb question, but can planes have cameras installed that will provide live feeds to control towers? (Departure and Destination)
+Seems like this was suggested several years ago but pilots unions fought it. "Invasion of privacy" they said. Didn't want to be caught snogging the flight attendants, napping, playing video games.
+Shut Up The answer to that is YES.. but remember as Old Sailor has mentioned there is a Privacy issue. Many countries allow open monitoring of persons but some like the U. S. does hold this as an invasion of personal rights and will not let you do it. ( unless of course it is a Gov. Agency doing the monitoring ) Also any thing which is electrical in nature even remote controlled may be eliminated, blocked, or turned off as in this case by persons unknown
+back in the day ....they use to show the take-offs and landings on a TV that everyone could see inside the plane. I think after some crash they took them out, as nobody wants to see what's ahead when you're going to die. I think it was the O'Hara AA 191 crash back in 1979. The passengers actually saw they were going to crash into the hangar on the TV inside the plane.
+This is an excellent idea! You should try taking it to the airline companies. Something that would work at an airport control center without the pilot or passengers ever knowing it. Maybe along with that they could take over the controls of the plane if someone were trying to hijack it or destroy it!
+Airline companies don't care Jo Jo
+Back in the 1980s when there was a lot of contention around the straits of Hormuz thanks to the IRANIANS and their dictator AYATOLLAH threatening to close it off we sent our United States Navy to that area to keep it open, and keep the oil tankers passing through that area safe, ONE day a Iranian JET airliner attempted to fly into one of our U.S.Naval guided missile cruisers captained by a relation of Will Rogers the cowboy satirist from the 1920s. IT was shot down and there was a great hue and cry over it, even though the victims of the shot down JET airliner looked like they'd been dead for a while. Not necessarily from the crash of a shot down airliner.
+Gen'l McInerney will end up being proven correct that this plane evaded radar and is in Pakistan undergoing modifications to be used in a terrorist event.
+I don't have a doubt in my mind, that this airplane is being hidden in a hanger somewhere awaiting its final mission. Held by what group, I don't have a clue. But this airplane will be seen flying again.
+God bless ALL of these researchers and scientist's for continuing this EXTREMELY perplexing search for this jet. My thoughts and prayers are with the families and "god willing" this search will put closure to this very strange disaster.
+40-50 yrs from now will this will be like the Bermuda Triangle mysteries?
+You are sick. You need help. So do I. lol
+There is no way, since 911 and other terrorist attacks around the world, that the US and other major countries are not monitoring all air traffic around the world 24/7. Between satellites, radar, GPS systems, air traffic control systems, earthquake monitoring systems, military defense systems, etc, that this plane just went poof and is nowhere to be found and no evidence of explosions, etc.
+As the Chinese are looking for this hot and heavy there must be something on board of value that they want to find and steal before anyone else gets the opportunity.
+Australia and Malaysia are contributing about $60 million each to the search. China, with 85% of the casualties has it thumb up it's buttox.
+China is overpopulated, they don't care.
+In addition to the sacraficial anode and lower pinger frequency they shoud update the pingers to a broadband chirp output. This is highly effective in high ambient noise environments.
+Good luck! I don't see much chance of success unless they get really lucky.
+As an air traffic controller, nobody is more happy this story disappeared from the news then me. Finally people have stopping asking me "what happen to the Malaysian flight", and delusionally, legitimately, think that I somehow know exactly what happen and where the plane is.
+You aren't going to find it. But it did expose a huge hole in our airline technology and safety. All you can do is learn from it. There is no reason to lose a plan in 2014. You put a mandatory GPS tracker on all future planes. Then you know exactly where they are at all times. Your cell phone knows exactly where you are. No reason to lose a plane in 2014. We have the technology.
+I'M GOING TO THROW-OUT-HERE THE FOLLOWING "WIDE THEORY" -, JUST TO GIVE THE READERS HERE SOMETHING TO PONDER: The Malaysian airliner that "went missing" over the Indian Ocean, and the airliner that got shot-down over Ukraine -, ARE THE SAME AIRPLANE; with a WHOLE LOT of diabolical multi-governmental orchestrations and propagandizing involved. (There -, I told you it was a "wild theory".)
+I thought about that. I never said anything though.
+Both Russia and China watched MH370 on their long range RADAR systems. Thing is, they can't say without giving away state secrets. The information about their systems, the range, the signal strengths, the s/n ratios, the transmission lines and vectors, etc... are all online.
+I agree with you. I don't think the US, Russia, China, etc would ever leave themselves vulnerable to an attack like 911. I believe all air traffic is monitored 24/7, especially by all major countries.
+My heart is with the families that have no answers. I will keep them in my prayers as well as all the other families with missing members
+A good search strategy would be to look for a debris field, and then follow it to the wreck site. Back in 1985, this very same strategy worked beautifully for Robert Ballard in his search for the wreckage of the RMS Titanic, after he had no luck finding the famous ill-fated ocean liner using the methods that are currently being used in the search for the missing jet.
+So what if they fined it they cant do anything about it so stop spending all that money and let those poor souls rest in piece.
+The plane was abducted by a large alien space ship.
+The unfortunate side of this is of course the loss of life and to the families, their loved ones. This incident will push for funding that will explore new technologies that will be useful to the future of all around the world plus add to the knowledge of the ocean depths that have been till now unexplored due to the extremes it takes to reach it.
+Thank you for a sane reasonable reply! Some of those I read previously contain neither one.
+OK, I am starting to think there is some #$%$ to this that we are not being told, and that the searches going on are some kind of window dressing. This is NOT 1939, and they are not looking for a little Lockheed Electra.
+To summarize - We have no idea where it is and we are still looking.
+Maybe I could get a radio man position on any of the ships. I would probably have to leave though after 10 or 15 years reporting "nope we have not found anything YET"
+I nearly forgot about the incident until now!
+To answer what? Just to open up old wounds? And after you spend millions for the answers will the results change? Will they find survivors? I am sorry for the families that have to relive an agonizing past.
+that plane could be almost so many assumptions are being made- haven"t anyone even consider the possibility that fuel might have been dumped or landing gear was down- if the rudder was say 2 degrees off everything changes
+Huh? Try proofreading before you post. I have no idea what you are trying to say.
+How much money are these governments spending on this search? I have never seen such an effort to recover a lost airplane before. In most cases, if they didn't find it in a week, they gave up. What is so special about this flight?
+So, just hypothetically speaking, IF I did know where it was, how much $$$ could I get for the info? Because I'm thinking $100 M?
+How heartless some posters here are! So they are probably not going to find survivors after all these months, but if they find some kind of answer, at least it will give the families some closure. I don't think that's a waste of money. I think you can't put a price on that.
+Sue just don't pick my taxpayer wallet to find out - Raise funds on your own if it is so important to you.
+My comment is not only for this plane but for those who have been kidnapped by ISIS. Why do these things happen when we have technology to find a lost dog via microchip and GPS?
+Because the microchip in a pet is not broadcasting and CANNOT be found by satellite, it is a "scan-only" chip. And what do identity chips that have to be scanned have to do with an airplane lost in an area 3/4 the size of the U.S.?
+what is the purpose of this chip if it is scan only?
+The huge octopus got them and won't let go.
+Amazing anything like this can even be considered, let alone accomplished. Modern technology is amazing. Ships cross the Atlantic in 10 or 11 days, It takes 6 days to get to this area. It must be in the real middle of nowhere.
+Ships cross the Atlantic in five to seven days, even in the 1950s. When was 10 or 11 days, 1850?
+If that plane had crashed into the ocean, by now, some identifiable piece of debris from that plane would have been found floating or washed ashore somewhere. That plane is on land somewhere and has been since day 1.
+You do realize how big the ocean is don't you?
+OMG. They really think we are so stupid to believe their grab they telling us... Why would a Pilot who want to crash the plane would wait until the fuel is gone if he could just dumb it mostly right away and dont have to wait for hours... Secondly they install sensors who can detect fuel and they hope to find it that way ..LOL... If they say in the first place the Plane crashed coz it went out of fuel... Whats to discover then the plane with fuelsenosrs in the deep water? Its like Jefferey said... They will only discover it never been there .. Coz they shot it down after they didnt get a response in the first place from the KL Tower coz they could let it come close to the twin towers in KL. After they shot it down they fooled everybody with that story and lead everybody in wrong direction so they can clean up the crash site..
+Because they know the pilot, passengers and crew died very quickly from the deadly smoke from the lithium-ion batteries on board, that caught on fire. They just don't know who to blame yet for the fire.
+No airplane parts, seats, luggage, anything has washed up anywhere. This plane is being hidden somewhere.
+It's a very big ocean and they still haven't found Earhart's airplane when they have a much better idea where it crashed. I would say the chances of ever finding this airplane are slim to none.
+Earhart's plane was tiny compared to a 777. Also the technology to find it before it corroded away did not exist back then.
+Not sure we have the technology to find this one either. I would say it is quite unlikely we ever will.
+They are wasting money and time, Its not in any ocean. This plane is being held somewhere to used later for attack by terrorists
+My belief is that it was hijacked, the passengers killed, and it's sitting hidden in one of the radical-fundamentalist-infested countries like Yemen or Somalia (where there is no government), slowly being re-painted and loaded with bombs to be used later. The terrorists are in no hurry, they'll wait until the story is gone from our minds and then use the plane.
+We still don't know what happened to Amelia Earhart's plane or the lost Navy fighter planes over the Bermuda Triangle after WW II. I don't think we'll ever know.
+Yes, we do know. They crashed into the big, wide, huge ocean and were never found. Same as MH-370.
+Malaysia Airlines didn't want to pay for satellite tracking. They should pay for 100% of the search for MH370. Cheap Muslim cesspool of a nation. Why should anyone else pay?
+Sad the United States Navy could not fine it, Why this plane evaded radar and is in Pakistan undergoing modifications.
+This is stupid as hell. The plane is gone, it's missing. How much money are they willing to spend on something that, if found, isn't going to make a difference one way or the other. The bodies will no longer be in the wreckage, so there's nothing to recover. It's all a waste of time, money, and resources.
+Even if they locate the plane, these conspiracy wackos will claim it was a fake plane that was planted there and that real plane is in a hanger in Syria to be used in another 9/11. Too bad they weren't on the plane.
+I was on the crew that planted the fake plane. It is scheduled to be found Feb. 9th.
+Wow still looking in the WRONG spot. If it had crashed where they say it had then there would have been debris well before now. A lot of the stuff onboard an airplane and a lot of the materials used in the manufacturer in airplanes FLOAT and would have surfaced within days of any crash. I wish they would stop beating this dead horse and move on.
+This plane once it was high jacked and the people killed by high altitude and lack of oxygen was shot down by our military, curiously the only base designed to have eyes and ears in that dead spot which makes up the Indian ocean did not see or hear anything, Diego Garcia knows what happened, they are not saying. Maybe we shot it down, told people to look else where, we cleaned up the debris, we collected the recorder. The rest is history! I should write a novel. Buy I too may have an accidental accident. Yikes!
+Totally plausable, and especially due to the fact there were several chinese business men aboard with new revolutionary technology, that maybe someone wanted. Yikes #2
+Where is Jules Verne when you need him. Regardless of the cost, the families need to have closure.
+Then, let the families pay for it.
+Regardless of the cost? Closure? That plane and everyone on board is sitting at the bottom of the ocean. There's closure.
+Jules Verne is dead and so are the passengers. Anyone who says regardless of cost has never had to shoulder the load and has probably lived on the dole his/her entire life. Cost does matter. Closure is nice, but sometimes it is not worth the price.
+I know that there are many that have their own thoughts as to what might have really happened to flight 370, as I also do have an opinion. My thoughts since the report of the missing plane are that it was taken to a remote part of the jungles of south east Asia and covered up with camo netting. That is what I think may have happened and the passengers were either killed or are being held prisoners as would be done to p.o.w.'s, that's just my thoughts, I could be wrong, but there's still the possibility that it could have happened. Think about it, how difficult it would be to see an object even as large as a jet air liner if its covered up good with camo netting. Think about it world. How hard would it be? Go look in the jungles of south east Asia. Such as in Cambodia/ Vietnam/ Laos or maybe even eastern China? Think about it.
+Gen'l McInerney will end up being proven correct that this plane evaded radar and is in Pakistan undergoing modifications to be used in a terrorist event.
+I think there was a news report at the beginning of this incident where the airplane climbed to a high altitude, far above what the system could pressurize for. If it did so everyone on board would be dead from the beginning. But the report I read could have been some of the miss information that was going around.
+you are so right, that yor wrong!!!
+well danny, there would have to be a very large runway nearby, they couldn't just hover and lower the plane in the jungle like a jump-jet
+The problem with landing a jet plane is that the runway has to be smooth and clear of any debris which could be sucked into the engines intake system. Since these engines are turning at several thousand rpm, even a little pebble can cause catastrophic failure. So unless "they" had a secret air strip, hard paved, that they were able to conceal from all satellite views, I don't think the plane landed anywhere.
+I can't wait for them to discover it was never there.
+You will be waiting for ever. Just where do you think it is?
+Where they were greeted by Elvis and Tupac.
+No, but they were greeted by Luciferians. The Freescale scientists aboard were going to blow the whistle about MCU (throttle control) chips being affected by rogue HAARP signals.
+If it did go to Diego Garcia then the US military is hiding something.
+How much LSD do you take a day?
+At first I thought it was accidentally shot down by Malaysia and that was why they were being so unhelpful in the investigation. Now who knows what really happened? Are they making up the satellite pings from the plane? If there real it crashed otherwise who knows and maybe they don't want us to know.
+"Malaysia and Australia are each contributing around $60 million to fund the search" What a waste of money.
+Ya, spending money to find 200 plus missing people is a waste of money, but doing research of life on Mars is not???
+Did I say anything about Mars exploration Jamie? Try to focus.
+I thought the UFO's or terrorists stole it? Those silly conspiracies!
+Gee, you don't believe in UFO's? Isn't the absence of proof evidence of a cover up?
+ENOUGH ALREADY.. stop wasting resources I think almost the whole world knows these Chinese super electronic techs were all swept away by the USA and the plane flew to our base in the indian ocean called Diego Garcia. google it.. There were numerous reports and it isn't really the first time stuff like this has happened.
+You have facts that its happened before?
+If i was one of those who had a lost one on MH370, it would be pretty frustrating to not know if that family member is dead or not. It is like, a nagging pain and urge to know if they are alive or not. But what i think is weird is that they haven't been able to find parts of the aircraft. Maybe if they did, shouldn't the other parts be around somewhere?
+Makes no logical sense to go deep into the ocean. They were abducted by the greys. Perfect specimens for gene study seen as how they were all different nationality's. Go talk to the shadow government and maybe we can get some pay back. Let's go raid their dwelling.
+It is not a major mystery get a grip it is one of 30,000 + planes that went missing on a normal day so sad too bad.
+I really hope the plane gets found. Those families need peace in their lives.
+More importantly, the world needs to quit wasting money and resources looking for a bunch of dead Chinese on a Malaysian aircraft. There are much more useful things to be done in the world.
+The plane disappeared and continues to be missing due to global warming.
+You're such a moron. Not even a humorous one.
+I thought it was funny. Besides Cnn did try to blame global warming for this once.
+"You're such a moron. Not even a humorous one." Humorous or not, my comment was meant to tweak crazy, hysterical, global warming alarmist lefties like you. Clearly it worked.
+I know this may sound a bit bizarre, but after all the planes that have been snatched from Libyan airports I can't help but wonder if it is sitting somewhere near where ISIS is taking over the areas in Syria & Iraq. They first thought the pilot was another radical when they checked things out. I feel so sorry for the friends & family members who long to know the fate of their loved ones. God bless them, & the missing passengers.
+No, it's not! Stop with the conspiracy theories people! No, they didn't think he was another radical. He simply had a flight sim (as thousands of pilots and aviation enthusiasts have in their homes) and had to rule it out. Please, tell us where the a/c is then. How did it fly through Middle Eastern countries that are HEAVILY monitored by U.S. military along with no fly zones! Even with the transponder off the atc/military radar would still pick up an unmarked blip! You think Iran, Pakistan etc...are just going to let it go?
+I come from a family of pilots and I can reassure this search team that they will never find this downed plane.
+Although the "black boxes" of the Air France plane that went down in the Atlantic were found after a long search and those were a lot smaller than a 777. It won't be easy but it's important to know what happened so hopefully it doesn't happen again.
+Its a big ocean it could be very deep down and they dont know exactly where they are looking. We only have about 5% of the oceans mapped out yes with enough time by math it can be found but that time span can be from years to centuries to millennia.
+Sam i come from a family of search teams and you are correct
+What if it didn't go down at sea? What if it landed at a land based airport or military runway close to where it was last observed and disappeared? What if it is hijacked or flown by deserters? What if you're looking too far away from the place she went down?
+Wacky....What if it hasn't run out of fuel yet?
+...i really hope they find it and everyone is okay. anyone remember the movie "Goliath Awaits"? about a ship sunk by a u-boat and there are air tight compartments so a lot of people live. the create an air filtration system and go on living underwater for years until a scuba diver finds them. great '80's tv movie.
+Has anybody bothered to check Diego Garcia? Maybe too late now. Could be painted and moved to who knows where. And NO floating debris whatsoever???
+Diego Garcia is occupied by both civilian and military personnel, so why would you need to check it? Floating debris would only happen if plane broke up on impact with water- if it was controlled ditching like Capt. Sully and "Miracle on Hudson" why would there be floating debris?
+You would have thought with all the technology there is available today that something like this could not happen.
+I would hope with all the technology out there, someone can figure out how to monitor flights and find them when they are lost.
+News flash: We know the plane went down and we know with some certainty that it went down in water. We will spend millions more to conclude that we have no idea where it is.
+don't worry its not your money
+I don't care about the money, it just seems like people can't face reality. The plane went down in water that is four miles deep, it is never going to be found, just like other ships and flights have disappeared over the years, so mark it lost and leave it until some piece of flotsam like a seat cushion or something comes on shore somewhere. If it doesn't, accept it is lost and move on.
+I think the Gypsies stole the plane. They were caught with a fleet of Mercedes Benz cars that they stole a few years ago. I can't remember the name of the small country, but it's notorious for stuff like this.
+Why? 60 million could feed a lot of hungry people, buy much needed drugs for impoverished areas of the world. While I feel for the families, they should let it go, these 239 humans are gone.
+Don’t mean to sound callous, but how many millions should be spent to recover bones from a watery grave just so you can plant them in a dirt grave? Yes, I’d like to know what happened to this plane. But where is the stopping point?
+Probably the families of those who have been lost think having closure so they can finally say goodbye is more important than any amount of money. Not all of them are convinced their loved ones were in a crash, but a hijacking instead. It will be hard for them to rest until they are certain they aren't out their somewhere waiting for rescue. If trillions can be spent on war and killing, billions can be spent on attempting to provide comfort.
+We all have a lot more important things on our plate to worry about.
+What I find sadly funny is that we have better maps of Mars then the bottom of our own oceans. What we need to do is actually spend some money and attach side scan sonar tow equipment to cargo ships so that we can get very detailed low level maps of the ocean floor.
+Cargo ships? They follow the same trade routes and don't cover most of the ocean areas.
+Another un-thought-out knee jerk solution. That would be like putting GoPro cameras on trucks running up and down the Interstate Highways.
+They will not find it because it did not crash here. They screwed up in the beginning by abandoning the search along the original flight path. There were visual sightings and satellite images of wreckage along that path and the search there was abandoned too early, based on erroneous reports about pings and signals,,,all of which have been shown to be inconsistent and unreliable. Egos and politics will fuel this new search and nothing but unsubstantiated shadows will result.
+Sitting in an aircraft hanger at Diego Garcia, thats where the real plane is at.
+How in the world did Bush and Cheney pull this one off? Has Obama blamed them yet?
+I believe this plane is hidden somewhere. It will be used as a terrorist weapon. Maybe even outfitted with a small nuke. Don't think its not possible.
+Paid the pilot to do this or someone was on board that took over or it was done by computer. I have heard it was possible. I don't think it crashed.
+I have it directly from Davy Jones Locker that the MH370 is too deep to be found, and that the countries involved should spend the tax payer dollars on better things. including the need to obliterate the IS.
+good post Starfish. I think those who give the TD's are the Islamic State lovers right here in our country.
+Never heard of any search being conducted as long as it was, or being resumed after so much time. There has already been other craft downed since then. Why arent we looking for them ?
+Really...Name one that has been lost since 370 went down.
+There have been other searches that went on for years. Some were successful after years and others never found. It's not time to give up yet. There is much potential knowledge to be gained if this can be found. That knowledge could be put to use in preventing future disasters. Most of the reliability of air travel enjoyed today is the product of forensic research conducted on past accidents. In addition to that, there is the not insignificant emotional healing the find could provide to the loved ones of those on board.
+It will show up. It will be loaded with bombs and head to the US. It did not go down. Somebody turned off the transponders on purpose so they would not be tracked.
+You're dumber than a brick, lmmfao! Someone turned off the transponders and that means it is being turned into a bomb to hit the US. How much LSD do you take before you watch 24?
+Waste of time and resources. Let them rest in peace.
+Where the plane is located at, should become a tome to honor their passing. Once found though, the investigation will try to place the exact blame on why the large cargo of poorly packaged highly flammable lithium-ion batteries on board flight MH370 caught on fire. The smoke from these kinds of fires is far more dangerous and deadly then the actual fire itself. There are parts of the cargo area that are pressurized and some oxygen would have also been available in other parts of the cargo area as well, at least for a period of time. The pilot first took the plane to 45,000 feet to make sure the fire did not have oxygen but by that time it was too late. He did not fully understand the nature of the fire. The fumes from these kind of fires is extremely toxic and the fumes worked there way into the plane, killing all passengers and crew very quickly. The pilots struggled to control the plane as best as they could while losing self control. They activated a preset autopilot control switch that they knew would take the plane away from civilian population, should they not survive and avoid crashing and killing people on the ground. While still losing consciousness, they accidentally switched the transponder switch to the off position instead of making sure it was on. Several hours later the plane must have ran out of fuel and went down in almost one piece to the bottom of the ocean, or there would have been some kind of debris field. The only important thing now is, who is responsible for the fire and smoke that killed them all very quickly. More then likely, it was a perfect combination of several critical errors. that went wrong.
+How do u explain the turns. There were at least 2. No call from them either. I doubt your theory is correct.
+While still losing consciousness, they accidentally switched the transponder switch to the off position instead of making sure it was on. Lmao and like Blue said the turns....and went down in one piece LMAO a plane on auto pilot and runs out of gas goes down in one peice LMAO (again)
+Elixir has a presumption that a fire caused by the batteries of the Boeing plane! Even it is true, there are the two turns as mentioned by BluePitBull and Click F. Also, the so called fire causes the pilots to loose conciousness but doesn't damage the airplane enough to bring it down, so the plane continues till it is out of fuel! This is a cheap anti-big company propaganda.
+Blue. The pilot did not make those moves, he was already dead. One of the several auto pilot installed programs by the pilot, was programmed to take the plane over unpopulated locations by making those turns at that time. Avoiding civilian death if they crashed. The pilot pressed that auto pilot program button, that activated that route just before he died. The pilot probably saved many peoples lives on the ground because he was smart enough to have that flight plan installed in his auto pilot programs, to ensure the safety of people in populated areas. While most want to believe he was a terrorist, he is probably a hero instead.
+elixir, you ought to write a book you have some pretty good fiction there.
+They better hurry because those people are probably down to their last few bags of peanuts.
+I wonder how much this is going to cost us? You know Malaysia ain't paying the tab
+Man come on we all know that the MH370 is actually the MH17 that was shot down over Ukraine. It's obvious...
+“We"?? Do you have fleas, or is it crabs?? No, wait- ya gotta get laid to have crabs...
+"John" That's not what your Mom said when my penis was in her mouth...Keep you STD's John I don't want them. That's why I don't bang your wife she is fat and full of disease... Are you all so closed minded that you eat the #$%$ sandwich and drink the kool-aide just as you are told? It's called the american dream because you have to be asleep to partake...
+MH370 is the plane that crashed over the Ukraine a while back. Some say shot down by the Russians but more likely was made to look that way .
+Animal and erik = Kool aid drinkers
+It is safely hidden in an Iranian hangar.
+Let me guess, Elvis and Tupac are there too.
+Does anyone know whether nuclear submarines could be outfitted to search for this plane, or if they have the capabilities already installed? A nuclear sub can get there quickly, stay there for a long time, and use active sonar to avoid any underwater mountains (not that I would expect the sub to go that deep).
+Oh Yes , and more secrets than area 51. The Sub Fleet are more active gathering Intel than anyone notices. Good to see not everyone has forgotten them. If the plane was underwater the NSA would know. The fact the News Media keeps reporting its in the southern Indian Ocean is proof its not there. Misdirection be the NSA, for our protection....
+I'm not sure why that question got so many thumbs down and no legitimate answer.
+sorry for all the families losses but what is the point , how much money has been spent on this search? would have been better to give those fund to families who sufferer loose
+This aircraft needs to be found no matter what it costs for several very good reasons. If this aicraft is found it can be ruled out that terrorists have it. Also if this aircraft should have gone down due to a structural failure or a design flaw we need to know that so we can make sure it doesn't happen again.
+My theory is that it was destroyed by a vietnamese interceptor, right after it entered vietnamese airspace. Just like KAL 007. Remember that KAL007 flew several miles after it was hit by two rusian missiles. This airplane probably flew under the radar several miles, while the pilots were struggling and crashed in the vietnamese coast. The vietnamese government picked up the pieces and bodies and cremated them.
+Give it up. Who cares at this point. Families already know they are dead. Stop spending money on this worthless project.
+I believe the families want to know for sure they are dead. They want to know what happened also. I would if it was my loved one on that plane.
+Ron, what caused this crash may have been a structural or design flaw in the aircraft. The only way to know this and prevent any future failures is to find this aircraft and determine what happened.
+Lee and pit bull, we know what happened. It crashed and will never be found. Stop spending money and tell the families to get over it and move on with their lives. I have.
+At least the USA isn't wasting money on the search. This plane won't be found for a long time. If the plane is in the Indian Ocean, the only way the plane will be found is either naturally when bodies and parts of the plane float to the top of the ocean or when oil companies find it as they prepare to drill in that area.
+Or will find it when aliens from another planet land in the ocean.
+Morons. They should have triangulated the pings from the black boxes when they had the opportunity. That's a LOT easier than what they are trying now. Since that opportunity is gone they should triangulate on the traces of jet fuel they detect.
+The problem with triangulation is that at least 3 ships all have to all work together, rather than COMPETING against each other to be the FIRST to find it. What are the chances of that?
+Apparently reading and comprehending is as difficult for you as triangulation is for them. But the moron moniker does apply. To you.
+They probably won't find the plane but a used diaper and Clark Bar wrapper from Eric Frein.
+I hear an offer by Pennsylvania State Police to help in the search was declined.
+What a waste of money! They will never find this plane. It never crashed. If it did there would be debris on a beach somewhere by now. A plane does NOT crash in one piece,,never ever,,not possible,, not at 500 mph on a sea with waves. Even the best pilots trying a controlled landing of a plane that big would not succeed in keeping it in one piece. SOMETHING would float,,MANY things would float for a long long time.
+The plane lands at approximately 120 mph not 500mph and captain Sully landed on the Hudson river in one piece.
+How about the plane Sullenberer landed safely in the Potomac? Every passenger survived. Admitting it was a slower airspeed, but it apparently can be done. If no one was around the plane would have simply sunk....leaving little debris thousands of miles from land
+That was in calm water, the ocean is never calm. Landing speed is 160 mph for this heavy Boeing 777-200ER . There should be debris , and some found....
+I see your Hudson River miracle and raise you the Ethiopian Airways disaster where the pilot tried to land a hijacked plane close to a beach in about as calm as waters you can get for the ocean but it broke up resulting in significant loss of life..
+Stan,, that plane on the Hudson was under control to an extent and was just taking off. Yes the planes do around 120 or so landing under normal circumstances. WHO is to say the landing on water was normal at all? A plane falling out of the sky is going more than 120 mph and by the way even at 120 it would break into pieces. There were no waves on the Hudson.
+David you don't know if it fell out of the sky or it landed. Also if you land where there are waves you don't land into them. You land parallel in between the waves.
+The crew of terrorists took the plane up to altitude where the passengers couldnt breath and died. Then they landed at a clandestine location and now are gathering the radioactive material and explosives to turn the plane into a dirty radioactive bomb. They will crash it in a large population center where the radioactive material will be spread by the wind and sicken and kill millions. Its going to make 9/11 look like a minor traffic accident..
+What's taking them so long? They missed 9/11 anniversary, so when's it going to happen? Where's the plane now? Got any evidence?
+kevin bond must have taken off his tin foil hat for a couple of minutes and heard the "voices".
+They will Never find the plane and if they do it was planted to satisfy the families. No debris, no plane crash.
+They might never find it or they might be successful. There have been other instances where they have found crashed planes after years of searching. It's a long shot, to be sure, but it's far from impossible.
+You're dumber than a pallet of bricks, Blue.
+I always think of the conspiracy side of things that happen. Never know Jackson.
+Yeah, well I tend to stick to the rational, as opposed to wild theories. I do know one thing, you cannot plant a jumbo jet.
+That's fine Jackson. I hope someday the truth comes out. I believe someone knows. The girlfriend of the American man that was on board thinks its a cover-up. She has come on tv many times and told her views. I tend to agree with her.
+I have seen that lady, Sarah.To me she just sounds like a nut case.
+The bird landed somewhere safely. Passengers and most of the crew did not survive.
+I bet you think Elvis greeted them upon arrival in Oz.
+While you're down there, do be a dear and locate Amelia Earhart's plane as well. Thank you.
+Several thousand miles difference in locations...
+And the hoax continues. As the POTUS has known all along, the airplane is now in ISIS territory, re-painted to resemble another airIine. ISIS now has a long range delivery method for the nukes Obama has allowed then to manufacture.
+Oh my, even this is Obamas fault. Has this idea been on Hannity yet?
+Thanks for pointing out that this is Obama's fault Stephen. You are absolutely correct!
+Go back and look at the actual available FACTS. If you come to any conclusion other than that this aircraft was Hijacked , and LANDED at a remote air strip to either be stripped and sold or to be used in a future attack against another country as a flying bomb, you are probably a paid person on one of the investigation teams making an excellent living off of these Bogus findings.
+Ok fine. Present your proof with FACTS to support your version.
+Suozhu OK. Let's start with the FACT that this flight altered. The flight plan which was filed clearly indicated that this flight was slated to go North from the air field internal to the Border of Malaysia and was to cross into Thailand and then again go north to Ko Tao and then turn North North East crossing the South China Sea and going on to Bangkok. The flight in Fact left Malaysia and went Due EAST. This was a clear change in the POSTED flight plan. No notification or intention of change was given by the crew. During this time period they inclined to over 42 thousand feet.. After exiting the coast of Malaysia by an estimated 100 miles they in fact were seen on radar making an abrupt turn to the West North West and then to a gradient which was more of a North West to North direction while descending rapidly. ( it is estimated that they lost 34 thousand feet of altitude in less then 4 and 1/2 minutes. They were watched on radar until they were still off the coast of Malaysia and under 8 thousand feet.. At no time did they declare any form of Emergency.. The ATC persons did not chose to at any time Question what was happening.. No one sent up a military aircraft to check on this flight and it's security.. Remember that all of the tracking devices on the aircraft went off line before it reentered Malaysian air space over the actual ground mass. Now after days and weeks and then months of searching NOT ONE ITEM from this aircraft has been recovered NOT ONE. You will ask how is it that no passenger used a cell phone to contact any one., Several possible answers are available. 1 the hijackers used some form of knock out gas to subdue every one on the aircraft who was not prepared with a form of external breathing device. ( gas mask. ) 2 The passengers were simply told to put all of the electronic devices in the isle.. One passenger chose to object and BAM Bam Bam.. ( shot dead ) with the statement Who's next. Put the electronics on the floor. There are others but those are the two that I see as the greatest one. Now at first I felt that the passengers might be used as hostages but after this amount of time I believe that they were executed after the aircraft landed at a remote field and was placed out of view. These are the preliminary and primary known facts. There are more but for now these should give you FACTS that may support my OPINION. Thanks for your post.. Larry N.
+Facts - the flight path was deliberately altered, contact was eventually lost, nothing has been found. The rest is conjecture - "Several POSSIBLE answers are available....." and opinion "this aircraft was Hijacked , and LANDED at a remote air strip to either be stripped and sold or to be used in a future attack against another country as a flying bomb..." As you say, that's your OPINION, which is fine. However I haven't reached that conclusion, and I have yet to find a check from the Malaysian government in my mail box. Not sure what "bogus findings" you are referring to. Lots of planes have gone down in the ocean without a trace and have never been found. The five TBM Avengers of Flight 19 disappeared somewhere in the Atlantic in 1945 and have yet to be found. (Although any garden-vaierty Bermuda Triangle or UFO cook will claim to know exactly what happened.) Best regards.
+Suozhu.. Thanks for that post I needed a good laugh...
+As always, I'm happy to entertain.
+Suozhu Just in, from the articles this AM A man who was rescued while trying to run across the ocean from the U.S. to Bermuda with out any electronics for direction, ( just over 1,000 miles ) in a clear Hamster ball may be one of the missing persons from the flight.
+Why didnt they develop the search vehicle with a fixed camera? How stupidly asine,waste of time the up and down procedure.Unbelievable engineering. Use all tools availiable. Jet fuel sensors yes. Too many times law enforcement loses a trail or clues by not using all tools.(cadaver dogs etc)
+(pssst... cadaver dogs are only good for searching for decomposing human remains, NOT recently dead human bodies. The rule of thumb is that a body needs to be dead and decomposing for at least 2 weeks for the scent to be specifically one that cadaver dogs can detect. You've been watching too much CSI and are starting to believe that bullshlt.)
+They tried cadaver dogs but they kept drowning.
+Bob,Hardcase,I never suggested once when to use them,Im referring to police officers who went to a house and smelled a foul odor as well as neighbors,and left due to trash and garbage buildup and blamed the odor on that. Several people were dead around the house,decomposed,they were to find out later.Plus many other cases.Whatever you are watching isnt teaching you Krapp. You would be THE KNOW IT ALL IDIOT WHO WOULD PULL SUCH A STUNT.
+XED Jet fuel sensors they claim the jet ran out of fuel lmao
+Pretty amazing that a jet could disappear intact? The article doesn't state who is paying for this adventure?
+Yes, it does. "Malaysia and Australia are each contributing around $60 Million to fund the search".
+@Jim plus they've learned a lot in terms of mapping the floor of the Indian Ocean from this so it's very worth it.
+This aircraft will be found in 'pristine' condition as though it was simply lower into the water… similar to the 'magic bullet' that when through JFK, Governor Connelly, after making 3 sharp right turns and a u-turn. YEA RIGHT….
+With the new high tech equipment and a refined search area based on updated calculations, there is a good chance they will find it.
+Lol ur just kidding yourself. This plane will never be found, although it is interesting to note that they have the exact same plane (different serial #) in an airport in Israel.....not being used for commercial flights though.
+Yes it will. I have faith in science and technology.
+Like the Obama Administration, this MH370 investigation is in over their heads.
+Of course there is always a loser who has to bring up Obama in every single article. Even when the articles have absolutely nothing to do with him. You guys are more obsessed with Obama than Dems were with Bush. Don't be so obsessed with the guy, it's unbecoming of you.
+1. Read the daily headlines 2. Prove I am wrong 3. Continue to attack people that have other views and ignore the facts
+It's not simply a matter of having other views. You are certainly entitled to your political views. It's just that the view you expressed here is so far removed from the subject matter that you can't expect it to be taken seriously.
+We are being trained to expect incompetence to be normal, that is not at all removed from the subject matter of this article.
+You are free to make that connection. I personally think it is a pretty far fetched one.
+At some point, a person realizes that giving the "benefit of a doubt" is not a blank check. Some people realize that sooner than others.
+WOW - I had forgotten about it - it's been 7 months already! I say that plane is not at the bottom of the ocean but at Diego Garcia. We will see it again - altered - going somewhere to inflict maximum damage. Not buying the 'crashing' scenario - someone, somewhere knows exactly what happen and is not talking or telling!
+Ever been to Diego Garcia? No chance of aircraft landing without being noticed, and not everyone there is military. Google it, do some research.
+@Commenter: I have not been there but many of the bombing planes during the Iraq war took off from that base.
+Cali....Why Diego Garcia? Why not Kennedy or LaGuardia?
+its not there...terrorist have it and will use it in a Trojan horse attack at a major airport. That fire at the Chicago air traffic control was not a mad employee, it was to disrupt the system long enough to prevent the planes signature code from being recognized. Its just a hunch I have...yes it sounds crazy but who would of believed on 9/10 that they would fly planes into buildings on 9/11.
+I would give you more credibility if you knew the difference between "would've" and "would of".
+lol you still believe in the good guys vs bad guys like the 80's/90's action movies......wake up!!! goverments are the only ones powerful and influential enough to pull things like this and 911 off
+yeah ok keep looking in the ocean. im sure they just missed the 1000s of lbs of buoyant material on the plane that would be floating for weeks after a crash . the next time we see this plane it will flown into a skyscraper. we have technology that can watch an ant fart from space but no one can find a freaking plane. the realistic answer is the plane went over the altitude where theres little oxygen and the passengers died, after which point the plane dodged radar and ended up in the desert with terrorists.
+What desert? Where? Why haven't your terrorists used their stolen plane for their attack? It's been months- what are they waiting for? Why haven't satellites seen anything? Why no other intel?
+Stuff needs a new tinfoil hat.
+the desert where the terrorists live , because they are still outfitting the plane to use as a weapon or still planning the attack i imagine. because obviously the satellites cant see planes. no other intel most likely due to public hysteria. if the govt said they had intel on the plane being stolen and to be used to fly into a building or city with explosives people would freak out. right i need a tinfoil hat because my opinion isnt remotely possible. terrorists have never stolen planes and used them weapons , and the govt has never covered something up to not scare the public.
+yea, right, and the terrorists also loaded the exact box that pinged the aircrafts signal on another aircaft and flew it out into the southern Indian ocean so it could be tracked and everyone would think it crashed there - then they either ditched the aircraft they were flying because it ran out of fuel or they had already hi-jacked and were flying another aircraft that had twice the range of a 777 so they could return to where they came from and continue their evil plot. Right. Follow the money - The two countries spending 60 million each plus the money the US and China has already spent searching for it would not have been spent if they knew it was in the hands of terrorists on a deserted island or in the desert. It went where the pings went, crashed, and remains there. Why is the question ! It will be found, and it won't be flown into a building, it's gone, relax.
+all i have is the word of govt officials telling me about pings and new developments. if a plane hits the ocean and you have the ping of where it went , theres no way you cant find it within hrs of it happening. not with the technology we have today. ok countries dont spend millions of dollars on nothing. the US would spend 60 mil on a bar tab. and just cause the say they are looking and spending money doesnt mean they actually are. thats the kind of things you tell the public when you dont want to scare them similiar to parents telling there kids everythings going to be ok when in fact its probably not going to be ok.
+What is not being mentioned is the fact that the 777 is the first civilian aircraft that could be flown remotely, as a drone, if chosen to be. So technically, it didn't need a pilot. So where it might be gets interesting. Boeing's website stated that when it first hit production.
+@ stuff - I'm sure when it is found you will think it was planted there ! The pings took days to even figure a way to use them for positioning, never done before. Two people saw an aircraft flying, on fire, maybe they were wrong - or maybe it got shot to stop a plot by the pilot - or maybe just the pilot did it - in any case it's on the bottom of the ocean and it will be found, it is NOT a threat to any of us, so relax !
+Stuff, I agree. There is something that smacks of a cover up or just pure loss of control by the airline of their plane.
+" we have technology that can watch an ant fart from space "
+Stuff.....Govt officials are telling you this? What govt officials, whose govt? You sound a little weird.
+Everyone's looking down, trying to find the plane, but they'll never find it. The plane never went down, it went up, into space. I'm not going to say it was aliens, but it was aliens.
+oh im sorry everyone. i guess the #$%$ plane just drove its #$%$ away after dumping the pilots and went off the radar in one whole piece never to leave a trace. i refuse to accept that. and guess what you dont know and i dont know. its my opinion and its not an impossible scenario. its not like im saying #$%$ aliens took it. maybe it did get shot down for whatever reason, all i know with modern technology a plane just doesnt go "missing" and no one knows anything about it being that private citizens arent spending the millions of dollars to look for the plane on their fishing boats , governments however are, on much bigger boats, and they are the people reporting to the news people on what they "know". and in turn the news reports to us. and why the hell are multiple countries on the hunt spending an obscene amount of money looking for 1 "crashed" plane ? if it did in fact crash , guess what, everyones dead and they cant use that plane anymore. if Malaysia wants to find it they can look. they wont find any bodies to bury so its not about that, i guess its worth a billion dollars to the world to find a piece of scrap metal and a black box.
+The safety of the aircraft we all currently fly in is very directly connected to the billions of dollars of accident investigation that has been done in the past. We learn from all past mistakes - aircraft design, maintenance problems and crew coordination problems. The loss of this aircraft will be fully investigated, the truth will be found and the NTSB safety recommendations and / or FAA / TSA guidelines and regulations it will create will make your commercial aviation experience safer in the future, just like it has in the past. Wise Up.
+There is no way that Boeing does not know where all the planes are around this world at all times. They have such a huge liability if they don't. First thing lawyers say when a plane crashes it is a plane malfunction, let's sue the plane company. So Boeing knows where it is and they are big enough to have these countries keep quiet of its known where abouts. This is only until a good story can be made up for it.
+Somehow, I doubt Boeing is very interested where the aircraft it built are once they've been paid for and delivered.
+David, I have to disagree with you somewhat. Boeing has a vested interest in what happens to their planes after they're sold both because of liability and brand protection. They obviously want to minimize payouts from lawsuits but, on a more long term level, if design flaws lead to deaths, it will make their customers turn to their competitors, like Airbus, for future purchases. The problems experienced with the batteries of the dreamliners hurt their sales even though they caused no deaths.
+How much LSD did you take Jon?
+Notice how Jon actually says something that is rational and though out. Obviously Jon is a critical thinker and the only argument anybody can present to contradict his thought is he is on drugs. Just goes to show that either Jackson and ANIMAL are paid shills. Or complete morons.
+You figured it out....I am paid to discredit anything Jon says about anything.....and it is not just because you are lovers.
+Matt, the declaration that Boeing knows where this plane is but is keeping that information secret does not sound too rational to me. It would do them more harm than good in the long run. It sounds much more like the folks who declare that 9/11 was an inside job or that we never put men on the moon.
+Matt, there is nothing rational about what you pr Jon said, fact. You're dumber than a brick if you think people get paid to post. If what you say is true, send me the info on how to get paid for posting. I consider my time valuable and should be paid for my thoughts and insight. Hurry, I will be waiting, my time is valuable.
+This has given plenty of time for the special work crew that has carefully sunk a different Malaysian 777 in order to give all those families some "closure" - and to mask the fact that the *real* Malaysian passenger plane never crashed in the ocean, but landed safe and sound - the passengers taken captive for use in the slave/sex trade, and the jet plane as a weapon for terrorism.
+And you have evidence of this......where....?
+The Malaysian pigs of Allah already know everything that happened. Hey, libtards! Is the whole world laughing at Malaysia now?
+Keep that supply of tin foil handy for those hats. Another poster child for a failed public school system.
+Sorry, I went to private schools until 12th grade. Try extreme stale leftyAsshole cliché #2. I doubt you take three years of Latin in a public school, starting at age 11. The degree I have now is one an idiot lib would prefer not to know of.
+This thing called love I just can't handle it this thing called love I must get round to it I ain't ready Crazy little thing called love
+My dog farted the other day and they thought that boat started sending off more pings. Truth is they're all gone forever. Time to inject a dose of reality to all those slanty-eyeds who think they're entitled to "the truth" - it's not going to get their loved ones back.
+Dear Joe....I feel your pain and I believe I can help. The frustrations you're feeling are due to your uncertainty of your gender & sleeping w/animals. Once you sort that out, I suggest using your left hand & vvanking. If the urge to post here ever returns, I suggest suppressing that thought & simply beat it
+Quit blaming the dog for your farts.
+stupid joke, people lost their loved ones, grow up and be respectable...
+I wish them the best of luck.
+How can nothing wash up on a shore yet?
+Not my thing but I think that means either the currents there do not go near shore or the plane is nearly intact.
+It never crashed in the ocean....
+after 4 months they are going to sniff the water for jet fuel ? Huh ?
+We will see this plane again. It won't be in pieces, it will be used as a weapon.
+The exact plane (different serial #) is being stored at an airport in Israel......dahboo77 did an outstanding job researching this weeks ago. I highly encourage all to follow him on YouTube!
+Still no debris. No seats no oil no nothing. Show me how a plane can land in the ocean and not break apart. Even the plane that landed in the hudson had debris come off it.
+The Hudson is only a few hundred feet wide. The area they are searching is 3/4 the size of the U.S., an area that can hide millions of Boeing 777's. Oil disperses and seats eventually sink.
+Plastic don't, and the seats are flotation devises that are designed to float forever. They don't have answers and they refuse to answer these questions when the media asks claim the same as you the ocean is big. If this was a small plane it would be understandable put the size of this plane makes their argument weak.
+Good luck, needle in a hay field.
+Why are they searching for a plane that never crashed ? ISIS most likely has it. They have the money to pull this off, and to make it a WMD, flying to a Western City. They are just waiting for people to forget about it. I hope I am wrong.
+My thoughts too, Iran is on the Northern swing and the time frame is a perfect match. India and Pakistan were Not looking at commercial aircraft. Easy takeover by those 2 Iranian Hijackers......
+It will be found, but not where they think. No debris is a sign it was hijacked.
+I wish this much time,money and effort would go into getting one Marine out of a Mexican jail
+How can someone make a wrong turn and drive across the border without going thru customs? if there were a way a lot of Mexicans would just drive across instead of walking miles and miles to sneak across. This is nothing but republican spin.
+Please don't use any of my tax dollars to fund this search.
+Why not? We still don't know if there was some sort of maintenance, construction, engineering failure of aircraft or systems- so are we really sure all the other similar planes are safe? That it will never happen again?
+If they don't blow your tax dollars on this, they'll just blow it on something else like 'Climate Change research', so what's difference does it make?
+This plane was commandeered by the scientologists and it is in John Travolta's plane hangar at his house. They have taken the people to their headquarters for indoctrination and to drain their bank accounts.
+Remind me that when your plane goes down. Let your family's money take care of it.
+now where did it say that the US is paying for it again?
+ohhh and the who 59 cent you pay for the government will hardly be enough to fund this
+hey are doing it for the MON ad nothing else! $60 million can be used to help a lot of living people!
+They think it completely ran out of jet fuel and crashed. So, they are installing sensors to search for jet fuel. Makes sense to me if you've been on the Jerry Springer show a couple of times.
+They do say that they don't expect those sensors to tell them anything but they included them in order to cover all their bases.
+Reading is fundamental Larry. Comprehension would also be useful. Give it a shot some time. Then keep your enlightened comments neatly folded and tucked away inside that massive intellect of yours.
+Has anyone checked the island that the TV series LOST was filmed on?
+I've heard about closure and how it is supposed to help, but I never understood how that could be. A loss like that will hurt badly and for a long time. Maybe it's more like the "public's right to know"...it's only something the media say to pass the buck on their snooping.
+This jet is not in the ocean.
+Thank you for recognizing my superior intellect, knave.
+Its not a mystery. Its a real good cover up.
+Has there been any progress toward active tracking of current aircraft flights? That should be the upshot of all this...
+We are still getting debris from Japans Tsunami, there is NO DEBRIS from this airline, we will not admit the pilot stole the plane until it re-enters our airspace as a bomb and probably on the anniversary of 911... He HILLARY, maybe you can get this right unlike Benghazi.
+Always got to one of you idiots commenting here.
+Heck...usually a whole lot more than just one....
+Your comparing the debris field of the entire Japanese coastline to that of a single airplane?
+Answer a question. How many other flights have gone down in the ocean WITHOUT a debris field ???? Come on you are soooooooooo smart.. Name just one...
+PLANE WAS LANDED ON DEIGO GARICA !!!!!!!!!!!!!!!!!!!!!!!! ACTUAL PROOF GOVERNMEMTS HAVE !!!!!!!!!!!!!!!!!!!! ??
+Drivel like this is not even deserving of a response. Oops! Dang it!
+the sad answer is those passengers are deceased, and as heartless as it sounds, the money and time spent doing this should be spent on stuff to help the living
+Since day 1 , Malaysia pilot " HAD " months of planing , If not years , Resceaching the route to " Disapear " the plane !!! Is USA watching this , So it doesn't happen to us ?
+Guys like you make me want to change my name...
+PsyOp, Inc., manufacturing lies faster and better than ever!
+I wish them the best of luck to solve that mystery !
+don't let them fool you they know exactly what happened to that plane
+I guess you know that because you are in that circle of knowing
+are you really that foolish? you think a 300 ton jet liner with all kinds of gps location devices and satillites around the world that can zoom in on a penny on a sidewalk cant find that jet your out of your mind. trust me they know were it is and what happened to it and they know exactly whats going on
+Corey, maybe you should work for the NSA, your satellites appear to work much better than any they have.
+No doubt in my mind that the plane will be found in some country that ends in 'stan.
+What a massive coverup.......2 words for you all - Black Box!
+Do you have something intelligent to say, or is that it?
+Hurricane, you have the Black Box, Wow !
+Hope they get lucky and find it this time .
+If you really want to know what happened to that plane, stay tuned for the movie. Hollywood is going to solve this mystery.
+I'll be surprised if they *ever* find it.
+that's cause its in an underground hangar at Diego Garcia base in the indian ocean being dismantled
+What if a group took the plane, disabled the black box and at a later date filled the plane with explosives. Then installed an active blk box, went airborne in the middle of the nite, headed for a united states allie......im just saying......WHAT IF !
+It was reported very early on that each and every Rolls Royce jet engine has it's own transponder. Rolls won't say where the jet is.
+PLANE IS IN DEIGO GARICA !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ??
+I agree, or if did fly that far and ran out of fuel,the plane could have changed course under manual power while decending and land in water near an island and sunk as a whole plane.
+No. Diego Garcia is not Area 51! It has hundreds or thousands working there from different nationalities. No hangars big enough to hide a plane like that. Don't be so gullible...
+the oceans always give up its dead
+no it doesnt.. ask the people on the Titanic that went down and never came up. or ships sunk during the world wars.
+Just ask Roll Royce where the plane is, they know!
+there is no way that plane crashed. even if it soft landed in the ocean when it got deep enough it would have broken up. no i believe it was hijacked and will be used to destroy somethiing.
+Jet fuel sensors ? They claim it ran out of fuel.
+heh you make a damn good point!
+Some fuel will remain in the tanks -
+going to search for that plane in the indian ocean ? somebody better pull the plug and drain that tub or you are just wasting money
+Try the other direction, dry lanf
+I'm still ticked at the Malaysian Airlines administrators who chose NOT to subscribe to a satellite tracking service that pinpoints where all their planes are at any one time. They were "cutting unnecessary costs."
+for your answer just check with the us-fed-gov as no doubt they colluded with israel to kill another group of innocent people using planes . . .
+Hope they find this plane and can recover the black box to put a fitting end to this tragedy GOOD LUCK!!!
+Two Iranians boarded that flight with bogus passports, that should be enough right there, something would have been found by now floating or washed up somewhere. this plane will be used to attack or cause something...iran is involved in this some kind of way....maybe to start bldg. their own aircraft or copy it....or its gonna be packed and sent?
+You sure Obama didn't do it?
+@Eric maybe, he's a scum bag terrorist himself..
+When I read your post, with the first line I thought it was a joke as in "2 Iranians walk into a bar…and then where executed"
+wonder what else they will find while looking for the plane
+some new species of fish among other things.
+MY Guess, From the Beginning, has been it's Hiding somewhere ~~~ Just Waiting too "Cut Someone Head Off " !!!!!!!!!!!!!!
+See they do eventually get back to thing's they swept under the rug. wonder how ping's doing. lol lol lol
+When will we hear the end of this story. Enuff.
+So nothing floated to the surface?
+I'm sure plenty floated to the surface, but none that was ever found.
+That could be Steve. We are all just guessing about what happened.
+What, I repeat, WHAT is so damn important about finding this plane?!
+There are 200 plus missing people that no one has a clue where they are. Now, let's take a person that you care about. Think for a moment................ Ok, found one? Now, let's say they disappeared today! Would you want someone to find them? would it be important to you? Or would you just say, "oh well." ? Now, let's take 200 people who lose someone and if they can find just one, they will find them all. Would that be worth looking for, or still, no? This is what society has come to, that we have to explain things to people like they are children, because of their lack of common sense. So sad. :(
+Jaimie, this is not even close to the same thing. You or I reporting a missing loved one to the cops is not the same as an aircraft or ship disappearing over/in an ocean. When an aircraft or ship disappears and cannot be found in a reasonable amount of time, it is practically guaranteed that everyone aboard is lost. Even the cops can only do so much, and you have to accept that fact sooner or later. In the case of this plane, we not only have an obsessive interest in finding it, but one shared by several countries who are not likely to spend the amount of money involved just to provide closure to surviving relatives and friends. I can see this obsession if it were a military craft carrying nukes, but that isn't the case here.
+No case EVER goes completely cold. That's why cops are still solving missing person cases from the 1800's. When a new piece of evidence surfaces they take a deeper look. In this case. Their is new evidence all the time. I heard cry babies saying they should stop looking for the plane even after they found a beep in the waters below! That's crazy! Yes, we can't search the whole ocean, but there are still plenty of clues that need checked out. It hasn't even been a year! No cop gives up on a case that soon. Open your heart, man. Stop thinking with your wallet!
+You need to stop thinking with yours and learn to face reality! What possible difference can it make to keep a case open hundreds of years, other then as a historical story? Do you actually believe that we CAN identify Jack the Ripper for example? Or tell what #$%$ difference it can possibly make to anyone other then a perverted sense of connection? My ancestor was Jack the Ripper! Really? I'm supposed to believe that? Or more important; So #$%$ what!? This plane is GONE! And some of those governments searching for it are NOT noted for their sense of mercy! And like it or not, you can only waste so much money on cold cases when there are more immediate problems to address. Such as the toddler missing one hour ago over one reported missing one year ago! Resources have to be appropriated wisely. They are not inexaustable!
+Joesph: They want to find out WHY the airplane went down in order to prevent other crashes
+Joseph, do you have any thumbs up yet? Oh, ya, ONE! Nevermind.
+We always talk about today's amazing , precise technology, but the last time an aircraft was LOST in this fashion, computers were measured by square footage, Pluto was still a planet, and a Kilobyte was an amazing amount of information. To get this kind of cooperation between so many nations and still misplace an airline of this size...........is..............technologically demoralizing.
+What a waste of time and money. Look People... Airplanes have ALWAYS vanished without a trace on transoceanic flights, and they ALWAYS will. Like it or not, the world's oceans are HUGE places.
+Establishment has a fixation on the # 7, don't they ?
+Beamed up to a waiting Saucer and whisked off to the land of honey and I'm not referring to the female of our species.Bazinga
+That is one large search area they've got it whittled down to. Maybe while they're looking they'll find Jimmy Hoffa too.
+Dear God let it go. This is like begging an ex to take you back. It's DONE.
+Yeah....what in thee hell...they might find Amelia Earharts plane soon.....By Accident!
+A waste of time and money. Forget it. a lot of people have disappeard since the beginning of civilation. Get over it.
+Quick!....someone tell CNN so they can talk about these new developments ALL MONTH LONG
+Its very hard to find this plane.
+It did not crash. End of story!
+They are looking in the wrong place. It's in Iran.
+They should be looking in either Pakistan or Afghanistan
+My intuition is that MH-370 will never be found. Of course, I could always be wrong. I hope that I am.
+The plane will never be found.
+total waste of time & money
+What a shallow jerk you are. You wouldn't feel that way if it was your son or daughter on board.
+ed do you think they are going to find them alive?? stupid,, do you think they can raise the plane from the ocean?? stupid
+shoulda been lookin' north in one of the terrorist's countries.
+This is a total waste of time, energy and resources. What are they going to find after all this time...a few bones? Just let it go.....
+To find airplane ask the Rothchild that's patent partners were on the plane,and now he owns all of the patent.
+Aren't you clever junior. How did you ever think that up?
+Where's Waldo? Same place that flight MH370 is hiding........not on the surface anymore.
+Look all you want. This aircraft is sitting somewhere being fitted with a nuke.
+This is what happens when you allow 3rd world countries to have modern technology and they can't handle it
+The US has had several plane crashes...what's your point?
+I'm sure barry is picking up the tab so maybe just maybe the muslims will like us... idiot.
+I wonder what else they might find at the bottom of the ocean.
+As long as it's not my money I don't care.
+I would look on land, in some Muslim countries.
+This plane landed longtime ago! the passenger held some where in a cave save! waiting for the right time! who knows what?
+There is NO wreckage. Only one of 2 things happened. 1) it's sitting in a hanger (or something big enough to hide a plane in) to be used at a later date, ....... or 2) aliens took it. I'm leaning on the alien option
+Bonnie the only Alien that exists is the God who created all the marvelous things in the universe. As for why he let this happen. The Bible tells us how evil got started in the world and why God has allowed it. GENESIS 3.1;6
+I'm not a seaman, but does the author have the kph & mph reversed?
+why would they look for fuel??????? after all these months it's all a waste of time and $$$$$$$$$$$$$$$$$$$ RIP
+MH370 is in a hanger just west of Kashgar. Everyone knows that.
+Please find the plane first before any news on it.
+Our government didn't put this muck money or effort in 9-11,hmmmmmmm
+The cause was known, but here it isn't, and they want to find out=
+John is right, the cause of 911 is known -- the government at least assisted in 911 if they weren't fully responsible. Why investigate something they already paid to have done? People would find out they were guilty if they investigated it.
+who said anything about America paying anything? "Malaysia and Australia are each contributing around $60 million to fund the search." hmmmmmmmm
+MH370... a flight that never existed......
+So what happened to the passengers and crew?
+Nessie from Scotland says : " I bet you can't find me ! "
+now they will find it. In the past 4 months they flew the plane from diego garcia and crashed it in the sea. All because the false flag by filthy israel was uncovered and aborted.
+Like most #$%$ he is a repressed gay man
+I find it fishy that Australia is more involved in the search than both Malaysia and China
+THERES MORE TO THIS THAN MEETS THE EYE
+Time to say good bye to MH370 it may be found but it will be years.
+That plane is hidden to be used in the future.
+Why doesnt Ballard and his crew go over there?
+Because Ballard knows the plane isn't in the ocean
+Then where is it Tom, on the moon?
+It is on land Justine! DUH???
+If the plane had crashed in the ocean at least one measly piece of debris would have been found. The plane did NOT crash in the ocean. It crashed in some jungle somewhere and they're looking in the wrong place.
+it is a big deep ocean, not all debris floats, a controlled decent may not cause the plane to disintegrate when it hits the water after running out of fuel.
+The problem with saying stupid thoughts is that the Sayer does not realize what an idiot he is.
+Let me guess.....America is paying for it all.
+It isn't in the ocean people! That plane is on land somewhere!
+Plane flew to USA/English base in the Indian Ocean called DIEGO GARCIA, where these high tech wizards aboard the plane were taken away from China.. Research it
+It must be awfully fuggin' dark down there. Hmmmm........ How can they tell if it's a plane or just a lousy, stinking rock? Huh?
+I bet IRAN knows where it is !!!!!!!!
+better chance of finding Eric Frein than MH370!
+Send the Obama CRIMINAL to the bottom of the ocean to look for the airplane. The guy's up in the ship can "cut" his life-line! Rid of that PROBLEM very easily!!
+Who is paying for this nonsense?
+Read the freaking article before posting your stupid questions!
+so.....how can we not find an airplane???
+Without wanting to sound callus, what is to point of this search? To confirm what is already know, namely, that the airplane crashed and that everyone aboard was killed. It is time to move on for the sake of everyone, both living and death.
+Obviously you have not had a loved one go missing. This is all about closure for the families.
+Two questions: 1. Did YOU have a family member on that plane? 2. Is English your first language?
+Closure, yes, but at what price--emotionally and otherwise. One has to be able to just let go; if not, then the consequences can be even more heart rendering.
+It's always easy when you're not personally affected.
+To say more would be redundant. I shall leave you with your sorrow and the hope that it will lessen and eventually be overcome by time.
+The point is the learn why it happened. Then learn how to prevent it from happening again. Virtually everything we know about airline safety, has been learned from accidents. FAA regulations are practically written in blood.
+That would be what I would like to help them with. i.e. Lower the ping frequency, add a scraficial anode to continually charge the batteries. and change the single frequency pinger to a sliding frequency chirp signal. If they had these changes in the existing system. They would have found the plane by now. Assuming it is in the ocean. (My background is in water acoustic processors)
+Great. If you watch CNN, be prepared for 24/7 in your face coverage. I can't wait for Anderson Cooper, his click of aviation experts blathering non stop, and Martin Savidge in the flight simulator.
+Accompanied by another insightful, Boston Marathon-type gem from Susan Candiotti - "It's as if they're searching for a plane out here."
+Why - does CNN need another news story to cover for two solid weeks so it can sidetrack the American people again - Eff this plane
+This event is unbelievable... we can not determine what really happened to MH370.
+You dont believe that it was lost until now not found?
+Why is Malaysian Air operating in our airspace up till now? Ban them until the true reason for the loss is found.
+the pilot was a brilliant psychotic,
+Diego Garcia US military base in the Indian Ocean has ALL the tracking and satellite info on MH370..........the US govt can inform Australian officials anytime they want.......the whereabouts of this missing airplane.
+that is most likely where the plane is.
+ahhh another excuse for the brits shell oil and gas exploration in the indian ocean...just before the chinese fingd the oil and gas hot spot.....
+Wala na kayong makikitang eroplano dyan, tinap-chop na at pinapatimbang na sa China ang mga parts! Sayang naman ang mga magagandang babaeng sakay duon.
+so the CIA or MI6 like in the movies are not that good after all
+....Or they are and just don't want you to believe it.
+or maybe I DO like bananas after all
+Poor little fraud imposter of golden!
+The missing plane is a HOAX,,, And we have the proof.... Google this... Wellaware1.
+thats a waste of TIME, how many times i needed of telling this that ALIEN is the responsibilities of the lost plane, it was abducted by ALIENS for experimentation....
+Tama ka talaga bakla kontra.. bobo lang talaga ang mga taong hindi naniniwala nito!
+Don't wanna sound mean but why waste money and just call them dead and move on we won't get them back even if we find them.....
+I enjoy waffles while reading about aviation disasters. You too?
+That plane is in North Korean !!
