@@ -1,9 +1,9 @@
 #-*- coding:utf-8 -*-
 import os
-import logging
 import MySQLdb
 import MySQLdb.cursors
 import nltk.tokenize as nltoken
+import preprocess as prep
 
 
 def write_file(name, content):
@@ -13,11 +13,11 @@ def write_file(name, content):
 
     
 class DataGenerator(object):
-    def __init__(self, news_table_name, comments_table_name, outpath):
+    def __init__(self, news_table_name, comments_table_name, out_path):
         self.news_table_name = news_table_name
         self.comments_table_name = comments_table_name
         self.conn = None
-        self.outpath = outpath
+        self.out_path = out_path
 
     def _connect(self,):
         self.conn = MySQLdb.connect(host='seis10.se.cuhk.edu.hk', port=3306, user='bshi', passwd='20141031shib', db='bshi', charset='utf8', cursorclass=MySQLdb.cursors.DictCursor)
@@ -34,24 +34,30 @@ class DataGenerator(object):
         r_news = cur.fetchall()
         for index, news in enumerate(r_news):
             id = news['id']
-            content = news['content']
+            content = news['content'].replace('\n', ' ')
             sent_tokenize_list = [x.strip() for x in nltoken.sent_tokenize(content) if x.strip()]
             per_news_content = '\n'.join(sent_tokenize_list)
-            per_news_name = os.path.join(self.outpath, 'news_{0}.txt'.format(index,))
-            per_comment_name = os.path.join(self.outpath, 'comment_{0}.txt'.format(index,))
+            per_proc_news_content = '\n'.join([prep.en_str_process(x.encode('utf-8')) for x in sent_tokenize_list])
+            per_news_name = os.path.join(self.out_path, 'news_{0}.txt'.format(index,))
+            per_proc_news_name = os.path.join(self.out_path, 'news_proc_{0}.txt'.format(index,))
+            per_comment_name = os.path.join(self.out_path, 'comment_{0}.txt'.format(index,))
+            per_proc_comment_name = os.path.join(self.out_path, 'comment_proc_{0}.txt'.format(index,))
             
             comments_list = []
             sql_comment = 'select content from %s where news_id = %s' % (self.comments_table_name, id)
             cur.execute(sql_comment)
             r_comment = cur.fetchall()
             for comment in r_comment:
-                content = comment['content'].strip()
+                content = comment['content'].strip().replace('\n', ' ')
                 l_content = content.split()
                 if len(l_content) > 5:
                     comments_list.append(' '.join(l_content))
             per_comment_content = '\n'.join(comments_list)
+            per_proc_comment_content = '\n'.join([prep.en_str_process(x.encode('utf-8')) for x in comments_list])
             write_file(per_news_name, per_news_content)
             write_file(per_comment_name, per_comment_content)
+            write_file(per_proc_news_name, per_proc_news_content)
+            write_file(per_proc_comment_name, per_proc_comment_content)
             print '{0}th news and comments are generated!'.format(index,)
         cur.close()
         self._close()

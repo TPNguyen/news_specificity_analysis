@@ -4,7 +4,7 @@ import string
 import jieba
 import codecs
 import numpy as np
-from nltk.stem.porter import *
+from nltk.stem.porter import PorterStemmer
 from nltk.corpus import stopwords
 
 jieba.initialize()
@@ -38,13 +38,10 @@ def en_str_process(s):
         text_no_punctuation = text.translate(pro_dict)
     if type(text)==str:
         text_no_punctuation = text.translate(None, string.punctuation)        
-    tokens = nltk.word_tokenize(text_no_punctuation)
-    filter_stop_text = [w for w in tokens if not w in stopwords.words('english')]
-    stemmed = []
-    for item in filter_stop_text:
-        t = (stemmer.stem(item)).strip()
-        stemmed.append(t)
-    return ' '.join(stemmed)
+    #tokens = nltk.word_tokenize(text_no_punctuation)
+    filter_stop_text = [stemmer.stem(w).strip() for w in nltk.word_tokenize(text_no_punctuation) if not w in stopwords.words('english')]
+    return ' '.join(filter_stop_text)
+    #return ' '.join(tokens)
 
 def ch_str_process(s):
     seg_list = jieba.cut(s.decode('utf-8'), cut_all=False)

@@ -1,5 +1,4 @@
-By Swati Pandey and Jane Wardell
-              SYDNEY (Reuters) - Nearly a year after embarking on a multi-million dollar quest to solve one of aviation's greatest unsolved mysteries, authorities and search teams are being criticised over their approach to finding Flight MH370 in the remote southern Indian Ocean.
+By Swati Pandey and Jane Wardell               SYDNEY (Reuters) - Nearly a year after embarking on a multi-million dollar quest to solve one of aviation's greatest unsolved mysteries, authorities and search teams are being criticised over their approach to finding Flight MH370 in the remote southern Indian Ocean.
 The Australian-led search, already the most expensive in aviation history, has found no trace of the Malaysia Airlines jet or its 239 passengers and crew, prompting calls for a rethink into the way the mission is conducted.
 Experts involved in past deep water searches say the search to find MH370 could easily miss the plane as Dutch company Fugro NV, the firm at the forefront of the mission, is using inappropriate technology for some terrain and inexperienced personnel for the highly specialized task of hunting man-made objects.
 Heightening concerns, Australian authorities said on Wednesday that another search vessel, the Go Phoenix, which is using the world's best deep sea search equipment and crew provided by U.S. firm Phoenix International Holdings Inc, would pull out within weeks.
@@ -13,8 +12,7 @@ Experts also question the lack of data released by the Australian Transport Safe
 Three of the bidders rejected for the MH370 contract, U.S. firm Williamson & Associates, France's ixBlue SAS and Mauritius-based Deep Ocean Search Ltd, have taken the unusual step of detailing their concerns - months down the track - directly to Australian authorities in correspondence viewed by Reuters.
 Several other experts are also critical, including some who requested anonymity, citing the close knit nature of the industry which has just a few companies and militaries capable of conducting deepwater searches.
 "I have serious concerns that the MH370 search operation may not be able to convincingly demonstrate that 100 percent sea floor coverage is being achieved," Mike Williamson, founder and president of Williamson & Associates told Reuters.
-DIVING INTO THE UNKNOWN
-              Australia took over the search for the missing plane from Malaysia in late March last year, three weeks after MH370 disappeared off the radar during a flight from Kuala Lumpur to Beijing.
+DIVING INTO THE UNKNOWN               Australia took over the search for the missing plane from Malaysia in late March last year, three weeks after MH370 disappeared off the radar during a flight from Kuala Lumpur to Beijing.
 The search area was determined by satellite data that revealed the plane turned back sharply over the Malaysian Peninsula and flew undetected for another six hours before crashing into the inhospitable southern Indian Ocean.
 The unchartered waters, buffeted by the Roaring Forties winds, stretch as deep as 6 km, hiding old volcanoes and cliffs in their depths.
 Australia, Malaysia and China earlier this month agreed to double the search area to 120,000 sq km.
@@ -29,11 +27,9 @@ The ATSB has routinely released detailed data from Go Phoenix, but has not done 
 Experts have cobbled together an analysis from glimpses of the sonar use and data in videos and images posted to the ATSB website.
 From that, they've gauged the EdgeTech sonars are operating at swathes beyond their optimum capabilities, resulting in poor quality images and leaving side gaps in coverage.
 "It makes no sense to be using fine scale tools to cover a massive area; it is like mowing an entire wheat field with a household lawnmower," said Rob McCallum, a vice-president at Williamson & Associates.
-Fugro deputy managing director Paul Kennedy said the sonar is running within its capabilities, noting the system identified
-              five "debris-like" objects in 700-metre deep water at a test range off the West Australian coast.
+Fugro deputy managing director Paul Kennedy said the sonar is running within its capabilities, noting the system identified               five "debris-like" objects in 700-metre deep water at a test range off the West Australian coast.
 "The test range gives us full confidence the sonars will see the debris field when we cross it," he said.
-WILD WEATHER    
-              Fugro is known for its expertise in high-quality low-resolution mapping of sea floors but has far less experience than some of the rejected bidders in deepwater aircraft searches.
+WILD WEATHER                   Fugro is known for its expertise in high-quality low-resolution mapping of sea floors but has far less experience than some of the rejected bidders in deepwater aircraft searches.
 It has been involved in 17 search and recovery efforts for aircraft or ships over 15 years, compared with some of the bidders who search for 4-5 aircraft every year.
 Kennedy pointed to the find earlier this month of a previously uncharted shipwreck as evidence Fugro was capable of finding the plane.
 Concerning experts further is the fact that the third Fugro vessel, which was being used to scan the gaps between the other two ships with an autonomous underwater vehicle (AUV), was this month taken out of action because of encroaching wild winter weather.
