@@ -85,10 +85,11 @@ class ModelHandler(object):
     '''
     def normalize(self, X):
         X = X[~np.all(X == 0, axis=1)]
-        X = 0.01 + 0.99 * X / np.amax(X, axis=1)[:, np.newaxis]
-        idf = np.log(X.shape[0] / (np.sum(X, axis=0) + 0.001))
+        idf = np.log(X.shape[0] / ((X!=0).sum(0) + 1))
+        X = X / np.amax(X, axis=1)[:, np.newaxis]
         X = X * idf[np.newaxis,:]
-        square_sum_row = 1.0 / np.sqrt(np.sum(X * X, axis=1) + 0.001)
+        X_leng = np.sqrt(np.sum(X * X, axis=1))
+        square_sum_row = np.where(X_leng != 0, 1.0 / (X_leng+0.000000001), 0)
         return X * square_sum_row[:, np.newaxis]
 
     def window_stack(self, a, width=3):
@@ -99,9 +100,10 @@ class ModelHandler(object):
         return np.array(b)
         
     def inference(self,):
-        e_matrix = np.delete(self.event_matrix, [80], axis=0)
-        d_matrix = self.news_matrix_list[80]
-        c_matrix = self.comments_matrix_list[80]
+        #e_matrix = np.delete(self.event_matrix, [80,:], axis=0)
+        e_matrix = self.event_matrix
+        d_matrix = self.news_matrix_list[60]
+        c_matrix = self.comments_matrix_list[60]
         mf = ner_mf.NER_MF(e_matrix, d_matrix, c_matrix)
         Wd, Hd, Md, We, He, Me, Wc, Hc = mf.factorize()
         return Wd, Hd, Md, We, He, Me, Wc, Hc
@@ -132,18 +134,20 @@ class ModelHandler(object):
         # c_value = c_value / sum_value
 
         d_value = Wc.dot(Md)
-        d_value = d_value / np.sqrt(np.sum(d_value * d_value, axis=1))[:, np.newaxis]
-        Wd = Wd / np.sqrt(np.sum(Wd * Wd, axis=1))[:, np.newaxis]
+        norm_d_value = np.sqrt(np.sum(d_value * d_value, axis=1) + 0.000001)[:, np.newaxis]
+        d_value = np.where(norm_d_value!=0.0, d_value/norm_d_value, 0.)
+        Wd = Wd / np.sqrt(np.sum(Wd * Wd, axis=1) + 0.0000001)[:, np.newaxis]
         d_sim_matrix = d_value.dot(Wd.transpose())
         d_value = np.mean(d_sim_matrix, axis=1)
         
         e_value = Wc.dot(Me)
-        e_value = e_value / np.sqrt(np.sum(e_value * e_value, axis=1))[:, np.newaxis]
-        We = We / np.sqrt(np.sum(We * We, axis=1))[:, np.newaxis]
+        norm_e_value = np.sqrt(np.sum(e_value * e_value, axis=1) + 0.000001)[:, np.newaxis]
+        e_value = np.where(norm_e_value!=0.0, e_value/norm_e_value, 0.)
+        We = We / np.sqrt(np.sum(We * We, axis=1) + 0.0000001)[:, np.newaxis]
         e_sim_matrix = e_value.dot(We.transpose())
         e_value = np.mean(e_sim_matrix, axis=1)
 
-        c_value = e_value + d_value
+        c_value = e_value * d_value
         
         file_name = 'comments_specificity_{0}_{1}.txt'.format(f_index, f_name)
         output = open(os.path.join(out_path, file_name), 'w')

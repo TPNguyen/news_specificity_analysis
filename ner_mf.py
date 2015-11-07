@@ -4,7 +4,7 @@ from matrix_factorization import MatrixFactorization
 
 
 class NER_MF(MatrixFactorization):
-    def __init__(self, event_matrix, news_matrix, comment_matrix, k=10, lam=0.1, eps=0.1, beta = 0.1, delta=0.1, iter_eps=0.05, max_iter_num=500, verbose=True):
+    def __init__(self, event_matrix, news_matrix, comment_matrix, k=10, lam=0.1, eps=0.1, beta = 0.1, delta=0.1, iter_eps=0.05, max_iter_num=1000, verbose=True):
         MatrixFactorization.__init__(self, event_matrix, news_matrix, comment_matrix, k)
         self.lam = lam
         self.eps = eps
@@ -19,8 +19,8 @@ class NER_MF(MatrixFactorization):
         self.delta = 10000
         self.beta1 = 0.1
         self.beta2 = 0.1
-        self.mu1 = 5000
-        self.mu2 = 3000
+        self.mu1 = 50000
+        self.mu2 = 30000
         self.mu3 = 200
 
         # self.lam = 0.01
