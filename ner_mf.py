@@ -4,7 +4,7 @@ from matrix_factorization import MatrixFactorization
 
 
 class NER_MF(MatrixFactorization):
-    def __init__(self, event_matrix, news_matrix, comment_matrix, k=5, lam=0.1, eps=0.1, beta = 0.1, delta=0.1, iter_eps=0.01, max_iter_num=1000, verbose=True):
+    def __init__(self, event_matrix, news_matrix, comment_matrix, k=10, lam=0.1, eps=0.1, beta = 0.1, delta=0.1, iter_eps=0.05, max_iter_num=500, verbose=True):
         MatrixFactorization.__init__(self, event_matrix, news_matrix, comment_matrix, k)
         self.lam = lam
         self.eps = eps
@@ -13,16 +13,26 @@ class NER_MF(MatrixFactorization):
         self.iter_eps = iter_eps
         self.max_iter_num = max_iter_num
         
-        self.lam = 0.1
+        self.lam = 0.01
         self.eps = 0.001
         self.beta = beta
-        self.delta = delta
-        self.iter_eps = iter_eps        
-        self.beta1 = 1000000
-        self.beta2 = 1000000
-        self.mu1 = 50
-        self.mu2 = 30
-        self.mu3 = 100 - self.mu1 - self.mu2
+        self.delta = 10000
+        self.beta1 = 0.1
+        self.beta2 = 0.1
+        self.mu1 = 5000
+        self.mu2 = 3000
+        self.mu3 = 200
+
+        # self.lam = 0.01
+        # self.eps = 0.001
+        # self.beta = beta
+        # self.delta = 0
+        # self.beta1 = 0
+        # self.beta2 = 0
+        # self.mu1 = 0.8
+        # self.mu2 = 0.2
+        # self.mu3 = 0
+        
         self.verbose = verbose
 
 
@@ -70,7 +80,7 @@ class NER_MF(MatrixFactorization):
             HcHct = Hc.dot(Hc.transpose())
             Hd = Hd * (Wd.transpose().dot(Xd) * self.mu1 + Md.transpose().dot(Wc.transpose()).dot(Xc) * self.mu3) / np.maximum((Wd.transpose().dot(Wd).dot(Hd) * self.mu1 + self.lam + self.delta * He.dot(He.transpose()).dot(Hd) + self.delta * HcHct.dot(Hd) + Md.transpose().dot(WctWc).dot(Md.dot(Hd) + Me.dot(He) + Hc) * self.mu3), self.eps)
             HdHdt = Hd.dot(Hd.transpose())
-            He = He * (We.transpose().dot(Xe) * self.mu2 + Me.transpose().dot(WctXc) * self.mu3) / np.maximum((We.transpose().dot(We).dot(He) * self.mu1 + self.lam + self.delta * HdHdt.dot(He) + self.delta * HcHct.dot(He) + Me.transpose().dot(WctWc).dot(Md.dot(Hd)+Me.dot(He)+Hc) * self.mu3), self.eps)
+            He = He * (We.transpose().dot(Xe) * self.mu2 + Me.transpose().dot(WctXc) * self.mu3) / np.maximum((We.transpose().dot(We).dot(He) * self.mu2 + self.lam + self.delta * HdHdt.dot(He) + self.delta * HcHct.dot(He) + Me.transpose().dot(WctWc).dot(Md.dot(Hd)+Me.dot(He)+Hc) * self.mu3), self.eps)
 
             temp_sum = Md.dot(Hd) + Me.dot(He) + Hc
             Wc = Wc * Xc.dot(temp_sum.transpose()) * self.mu3 / np.maximum(self.lam + Wc.dot(temp_sum).dot(temp_sum.transpose() * self.mu3), self.eps)
@@ -85,8 +95,10 @@ class NER_MF(MatrixFactorization):
             iter_num += 1
             pre_obj_value = obj_value
             obj_value = self.compute_loss(Xd, Wd, Hd, Md, Xe, We, He, Me, Xc, Wc, Hc, I)
+            if pre_obj_value < obj_value:
+                print iter_num, obj_value
+
             delta = np.fabs(obj_value - pre_obj_value)
-            print iter_num, delta
             if (self.verbose and iter_num%100==0):
                 print 'It:{0} \t obj:{1} \t delta:{2} '.format(iter_num, obj_value, delta)
             '''print 'He:', He
@@ -108,10 +120,12 @@ class NER_MF(MatrixFactorization):
         t_sum = Wc.dot(Md).dot(Hd) + Wc.dot(Me).dot(He) + WcHc
         tr3 = self.XcXc - 2 * np.sum(Xc * t_sum) + np.sum(t_sum * t_sum)
         tr4 = self.lam * (np.sum(Wd) + np.sum(Hd) + np.sum(We) + np.sum(He) + np.sum(Wc) + np.sum(Hc))
+        #tr4 = self.lam * (np.sum(Wd) + np.sum(Hd) + np.sum(We) + np.sum(He))        
         tr51 = self.beta1 * (np.sum(Md * Md) - 2 * np.trace(Md) + np.trace(I))
         tr52 = self.beta2 * (np.sum(Me * Me) - 2 * np.trace(Me) + np.trace(I))
         tr5 = tr51 + tr52
         tr6 = self.delta * (np.sum(HdtHe * HdtHe) + np.sum(HetHc * HetHc) + np.sum(HctHd * HctHd))
+        obj = tr1 * self.mu1 + tr2 * self.mu2 + tr3*self.mu3 + tr4 + tr5 + tr6
         print tr1 * self.mu1, tr2 * self.mu2, tr3 * self.mu3, tr4, tr51, tr52, tr6
         
         return tr1 * self.mu1 + tr2 * self.mu2 + tr3*self.mu3 + tr4 + tr5 + tr6

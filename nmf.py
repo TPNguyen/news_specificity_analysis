@@ -12,8 +12,8 @@ class NMF(MatrixFactorization):
         self.max_iter_num = max_iter_num
         self.verbose = verbose
 
-    def __init__(self, k=5, lam=10000, eps=0.01, iter_eps=0.01, max_iter_num=10000, verbose=True):
-        self.k = 5
+    def __init__(self, k=5, lam=10000, eps=0.01, iter_eps=0.000001, max_iter_num=10000, verbose=True):
+        self.k = 100
         self.lam = lam
         self.eps = eps
         self.iter_eps = iter_eps
@@ -51,11 +51,9 @@ class NMF(MatrixFactorization):
             pre_obj_value = obj_value
             obj_value = self.compute_loss(X, W, H)
             delta = np.fabs(obj_value - pre_obj_value)
-            print delta
+            print obj_value
             if self.verbose and iter_num%100==0:
                 print 'It:{0} \t obj:{1} \t delta:{2} '.format(iter_num, obj_value, delta)
-        print 'W:', W
-        print 'H:', H
 
     def compute_loss(self, X, W, H):
         WH = W.dot(H)
@@ -64,7 +62,7 @@ class NMF(MatrixFactorization):
         return tr1 + tr2
         
 if __name__=='__main__':
-    X = np.random.random((500,20000))
+    X = np.random.random((50,200))
     print X
     nmf = NMF()
     nmf.nmf_factorize(X)

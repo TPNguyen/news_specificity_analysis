@@ -1,5 +1,6 @@
 #-*- coding:utf-8 -*-
 import os
+import time
 import cPickle as pickle
 import numpy as np
 import ner_mf
@@ -48,25 +49,33 @@ class ModelHandler(object):
         self.event_matrix = np.zeros((news_num, self._type_num))
         self.news_matrix_list = []
         self.comments_matrix_list = []
+        self.raw_comments_list = []
         for index in xrange(news_num):
             news_name = os.path.join(self.input_path, 'news_proc_{0}.txt'.format(index,))
             comments_name = os.path.join(self.input_path, 'comment_proc_{0}.txt'.format(index,))
+            raw_comments_name = os.path.join(self.input_path, 'comment_{0}.txt'.format(index,))
             news_line = post_file_dict[news_name]
             comments_line = post_file_dict[comments_name]
             temp_news_matrix = np.zeros((len(news_line), self._type_num))
             temp_comments_matrix = np.zeros((len(comments_line), self._type_num))
+            f = open(raw_comments_name, 'r')
+            raw_comments = np.array(f.readlines())
+            f.close()
             for r_index, line in enumerate(news_line):
                 word_list = line.split()
                 for word in word_list:
                     if word in self._type_to_index:
                         self.event_matrix[index, self._type_to_index[word]] += 1.0
                         temp_news_matrix[r_index, self._type_to_index[word]] += 1.0
+            temp_news_matrix = np.concatenate((temp_news_matrix, self.window_stack(temp_news_matrix)), axis=0)
             self.news_matrix_list.append(self.normalize(temp_news_matrix))
             for r_index, line in enumerate(comments_line):
                 word_list = line.split()
                 for word in word_list:
                     if word in self._type_to_index:
                         temp_comments_matrix[r_index, self._type_to_index[word]] += 1.0
+            assert len(raw_comments) == temp_comments_matrix.shape[0]
+            self.raw_comments_list.append(raw_comments[~np.all(temp_comments_matrix==0, axis=1)])
             self.comments_matrix_list.append(self.normalize(temp_comments_matrix))
         self.event_matrix = self.normalize(self.event_matrix)
         print 'Parse data successfully!'
@@ -81,11 +90,18 @@ class ModelHandler(object):
         X = X * idf[np.newaxis,:]
         square_sum_row = 1.0 / np.sqrt(np.sum(X * X, axis=1) + 0.001)
         return X * square_sum_row[:, np.newaxis]
+
+    def window_stack(self, a, width=3):
+        l = a.shape[0]
+        if width >= l:
+            return a
+        b = [np.sum(a[i:i+width], axis=0) for i in xrange(0,a.shape[0]-width+1)]
+        return np.array(b)
         
     def inference(self,):
-        e_matrix = self.event_matrix
-        d_matrix = self.news_matrix_list[2]
-        c_matrix = self.comments_matrix_list[2]
+        e_matrix = np.delete(self.event_matrix, [80], axis=0)
+        d_matrix = self.news_matrix_list[80]
+        c_matrix = self.comments_matrix_list[80]
         mf = ner_mf.NER_MF(e_matrix, d_matrix, c_matrix)
         Wd, Hd, Md, We, He, Me, Wc, Hc = mf.factorize()
         return Wd, Hd, Md, We, He, Me, Wc, Hc
@@ -106,13 +122,61 @@ class ModelHandler(object):
                     break
         output.close()
 
-    def export_comments(self, top_display=10):
-        pass
+    def export_comments(self, Wd, Hd, Md, We, He, Me, Wc, Hc, out_path, f_index, f_name, top_display=10):
+        # d_value = np.sum(Wc.dot(Md).dot(Hd), axis=1)
+        # e_value = np.sum(Wc.dot(Me).dot(He), axis=1)
+        # c_value = np.sum(Wc.dot(Hc), axis=1)
+        # sum_value = d_value + e_value + c_value
+        # d_value = d_value / sum_value
+        # e_value = e_value / sum_value
+        # c_value = c_value / sum_value
+
+        d_value = Wc.dot(Md)
+        d_value = d_value / np.sqrt(np.sum(d_value * d_value, axis=1))[:, np.newaxis]
+        Wd = Wd / np.sqrt(np.sum(Wd * Wd, axis=1))[:, np.newaxis]
+        d_sim_matrix = d_value.dot(Wd.transpose())
+        d_value = np.mean(d_sim_matrix, axis=1)
+        
+        e_value = Wc.dot(Me)
+        e_value = e_value / np.sqrt(np.sum(e_value * e_value, axis=1))[:, np.newaxis]
+        We = We / np.sqrt(np.sum(We * We, axis=1))[:, np.newaxis]
+        e_sim_matrix = e_value.dot(We.transpose())
+        e_value = np.mean(e_sim_matrix, axis=1)
+
+        c_value = e_value + d_value
+        
+        file_name = 'comments_specificity_{0}_{1}.txt'.format(f_index, f_name)
+        output = open(os.path.join(out_path, file_name), 'w')
+        i = 0
+        output.write('-------------------\t{0}\t-------------------\n'.format('news specific'))
+        for c_index in reversed(np.argsort(d_value)):
+            i += 1
+            output.write(self.raw_comments_list[f_index][c_index] + '\n')
+            if top_display > 0 and i >= top_display:
+                break
+        i = 0
+        output.write('-------------------\t{0}\t-------------------\n'.format('events specific'))
+        for c_index in reversed(np.argsort(e_value)):
+            i += 1
+            output.write(self.raw_comments_list[f_index][c_index] + '\n')
+            if top_display > 0 and i >= top_display:
+                break
+        i = 0
+        output.write('-------------------\t{0}\t-------------------\n'.format('comments specific')) 
+        for c_index in reversed(np.argsort(c_value)[::-1]):
+            i += 1
+            output.write(self.raw_comments_list[f_index][c_index] + '\n')
+            if top_display > 0 and i >= top_display:
+                break
+        i = 0
+               
+        output.close()
 
 if __name__=='__main__':
     mh = ModelHandler('./data/mh370')
     mh.parse_data()
     Wd, Hd, Md, We, He, Me, Wc, Hc = mh.inference()
-    mh.export_topic(Hd, './data/mh370/output', 2, 'hd')
-    mh.export_topic(He, './data/mh370/output', 2, 'he')
-    mh.export_topic(Hc, './data/mh370/output', 2, 'hc')
+    mh.export_topic(Hd, './data/mh370/output', 80, 'hd')
+    mh.export_topic(He, './data/mh370/output', 80, 'he')
+    mh.export_topic(Hc, './data/mh370/output', 80, 'hc')
+    mh.export_comments(Wd, Hd, Md, We, He, Me, Wc, Hc, './data/mh370/output', 80, 'test')
