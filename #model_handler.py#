@@ -100,10 +100,10 @@ class ModelHandler(object):
         return np.array(b)
         
     def inference(self,):
-        #e_matrix = np.delete(self.event_matrix, [2,:], axis=0)
+        #e_matrix = np.delete(self.event_matrix, [80,:], axis=0)
         e_matrix = self.event_matrix
-        d_matrix = self.news_matrix_list[66]
-        c_matrix = self.comments_matrix_list[66]
+        d_matrix = self.news_matrix_list[80]
+        c_matrix = self.comments_matrix_list[80]
         mf = ner_mf.NER_MF(e_matrix, d_matrix, c_matrix)
         Wd, Hd, Md, We, He, Me, Wc, Hc = mf.factorize()
         return Wd, Hd, Md, We, He, Me, Wc, Hc
@@ -138,14 +138,14 @@ class ModelHandler(object):
         d_value = np.where(norm_d_value!=0.0, d_value/norm_d_value, 0.)
         Wd = Wd / np.sqrt(np.sum(Wd * Wd, axis=1))[:, np.newaxis]
         d_sim_matrix = d_value.dot(Wd.transpose())
-        d_value = np.mean(d_sim_matrix, axis=1)
+        d_value = np.amax(d_sim_matrix, axis=1)
         
         e_value = Wc.dot(Me)
         norm_e_value = np.sqrt(np.sum(e_value * e_value, axis=1) + 0.000001)[:, np.newaxis]
         e_value = np.where(norm_e_value!=0.0, e_value/norm_e_value, 0.)
         We = We / np.sqrt(np.sum(We * We, axis=1))[:, np.newaxis]
         e_sim_matrix = e_value.dot(We.transpose())
-        e_value = np.mean(e_sim_matrix, axis=1)
+        e_value = np.mean(e_sim_matrix, axis=1) * np. 
 
         c_value = e_value * d_value
         
@@ -180,7 +180,7 @@ if __name__=='__main__':
     mh = ModelHandler('./data/mh370')
     mh.parse_data()
     Wd, Hd, Md, We, He, Me, Wc, Hc = mh.inference()
-    mh.export_topic(Hd, './data/mh370/output', 66, 'hd')
-    mh.export_topic(He, './data/mh370/output', 66, 'he')
-    mh.export_topic(Hc, './data/mh370/output', 66, 'hc')
-    mh.export_comments(Wd, Hd, Md, We, He, Me, Wc, Hc, './data/mh370/output', 66, 'test')
+    mh.export_topic(Hd, './data/mh370/output', 80, 'hd')
+    mh.export_topic(He, './data/mh370/output', 80, 'he')
+    mh.export_topic(Hc, './data/mh370/output', 80, 'hc')
+    mh.export_comments(Wd, Hd, Md, We, He, Me, Wc, Hc, './data/mh370/output', 80, 'test')

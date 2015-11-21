@@ -1,63 +1,63 @@
 -------------------	news specific	-------------------
-Not strange at all. Boeing would have records of the *original* factory parts serial numbers. Then some of those parts could have been replaced at any time after the plane went into service. If the airlines who operated it did not keep proper records, there could be Boeing-made parts on there that are not original to the plane, and no evergreen record of what serial numbers are actually on that aircraft. Thus, there would be no way to confirm it 100% if it's not a factory-installed part, and nobody has an accurate record of replacement parts serial numbers. Fingers are being pointed at Malaysian Airlines for faulty record-keeping.
-
-Actually KenZ, if the operators had to cannibalize such a part, there is supposed to be a paper trail, records change, etc. But in the long run, it would not be economical to do such, and cause two aircraft to have to be re-rigged and tested. Instead most operators would order an assembly, or remove, repair and reinstall it. Then it must go through a operational testing, and even a flight test if needed, before the aircraft could be put back into service. But that presumes that the operator is using Boeings maintenance procedures, and so on. Also depends upon the operator using certified Boeing parts. In the past, there was a spat of trouble with 747 flaps on some foreign operators aircraft, with failure happening. Turns out, the contracted maintenance company was using off-brand parts, not quite up to Boeing standards. A model one time inspection was ordered, with a suspense date, that had to be met, if the plane was to fly in America, or Europe airspace. Several bad parts were recovered, because of this inspection. Now what that means, is if there is no record of ever changing this part on that aircraft, then there is a very good chance the piece did indeed come from the missing airliner. And while in the ocean for almost a year, it probably made the numbers hard to read, and they had to turn to science to see them. And that takes some time. Many foreign operators use contracted maintenance services to maintain their aircraft, Singapore being one that comes quickly to mind. Even some of our military aircraft are serviced there.
-
-If Boeing replaces any part, they keep records of it, and they investigate why the part failed. They keep records and serial numbers on where all their parts go. You seem to think aircraft manufacturers are like auto manufacturers, and they're not. If they have one with defects, they don't throw it in the ocean; they recycle it.
-
-What does France have to do with anything? It's a Malaysian airline and a US made aircraft. Why not just send the part to Boeing for analysis?
-
-The part should have been sent to Boeing for ID.
-
-One plausible reason why France did not send the airplane part directly to Boeing may have been so that they did not look like they were incompetent in analyzing the part themselves. Imagine what would happen if Boeing returned the part saying that it was not from one of their planes - people would say the French were incompetent. Boeing is an American manufacturer and the flaperon was found on French soil. That's just a guess.
-
-If they had sent the part to Boeing they would have had the answer with in 24 hours.
-
-Why France? Boeing is in the U.S. Boeing made that part. What do they say? Something doesn't add up.
-
-Actually, Boeing only confirmed that the part was from a 777
-
 @Gandozer, actually it would be as to how many are missing without knowledge. And that number would be a very small number indeed. Because of the planes age, new, and the lack of hundreds of flight miles and years of service, the stock of such spare parts would be limited. And one missing, would stand out like a sore thumb. This is not like putting the spare on your car, but a flight control surface, and its replacement would require rigging, and hydraulic testing, to ensure its safe operation. Along with that, perhaps even a flight function test. So I will bet that the producer, Boeing, knows exact numbers of all parts of this type, and has the mountain of paper work required to produce it, from where the alum was mined, refined, stamped, and formed into the part. Even if from one of its suppliers, the paper trail is mandatory. Building planes, is not like building autos or houses. More precise, and controlled, with QA checks and rechecks along the way. Once it goes into service, Boeing continues to monitor and knows life-cycle information etc. And if a part like this were to fail, especially in flight, it would be reported back to them. So in the lack of such a happening, in the past year, or history of the model aircraft, I would suspect that it did come from MH-370, the question is now how it got to where it was found. Ocean currents okay, then it can be modeled back to certain areas and a new search plan formed. Look at how long it took to find the Air France plane that crashed in the Atlantic. Almost a year also . But find it they did.
 
+I performed aircraft maintenance repairs for twenty years at Tinker Air Force Base, and I can assure you there is no way to identify a specific airplane part based on the appearance of its rivets or weldments. Amelia Earhart's plane disappeared nearly 80 years ago and has never been found. What makes you so confident that MH370 will be discovered? So...if I may ask...what exactly qualifies you as an expert in the field of airline disaster investigations? You come across like you should be in charge of the investigation, but somehow I rather doubt that. You make it sound like a different blueprint is drawn up for every plane that gets built, which makes each plane unique. This is not how the job gets done. If every plane had its own unique blueprint, the cost of building each plane would become enormous. BTW: The word you were searching for is 'traceability'. As far as your mollusk comment goes, the flaperon was reported to have been caught in a gyre in the Indian Ocen, and so around and around it went, much like a towel in a washing machine. Without knowing precisely where the flaperon entered this gyre, it is impossible to work backwards in an effort to determine where it went down.
+
+I am curious how a metal object with holes it it manages to float??? Looking at the pictures, there does not seem to be any section that is watertight.... As for all the theories... The facts are there were numerous passengers that were involved in new stealth tech flying to a "meeting" that disappeared with this plane.. Humm, and this fairly new plane with new and advanced technology seemed to turn into a ghost in the air. (radar and satellites can track birds...) THAT alone raises speculation and creates motive. not to mention that a mysterious cell message and photo was sent from Diego Garcia from a person that was confirmed a passenger on the plane AFTER it disappeared, but that somehow has been dismissed and has disappeared from the media. This is high profile and folks will only find what those involved want found unless a whistleblower comes forward... but of course that would be certain repercussions and new disappearances that would probably be blamed on human or mechanical error... The truth is out there, big brother has his agenda sadly human lives mean nothing.... I am not trying to be negative or anti government here, just cannot and will not dismiss the ambiguity of our and other governmental entities.
+
+Georgie, that doesn't identify the part any more than saying a spark plug fits a certain engine. And maritime experts DID say where the part had been for the past 12+ months... it was floating around in the INDIAN OCEAN! And they wouldn't ask "experts in oceanography" they'd confer with marine biologists. And the flaperon was covered with goose and stalk barnacles, NOT mollusks... and, no, they're NOT the same thing. Like Bill said... you've been watching too much CSI and think you have a clue. RLS, were you with the 552nd? I was 552nd at McClellan.
+
+:) Excursion to *another* aversion - Let's look at THE plane part, instead of migrants dying on Frances doorsteps...........
+
+My favorite line of all time "definitely, the search will continue in the same area". Yeah, lets keep looking where we didn't find anything, rather than where the parts are washing up on the beach.
+
+FROM CBS APRIL 2014: The Malaysian government confirmed Tuesday that officials investigating the disappearance of Malaysia Airlines Flight 370 were looking into an Australian company's claim to have located aircraft wreckage on the sea floor in the northern Bay of Bengal -- thousands of miles from the search area scanned meticulously for weeks to the south. Australian land and sea survey company GeoResonance said in a statement sent Tuesday to CBS News that it had discovered materials "believed to be the wreckage of a commercial airliner" about 100 miles south of Bangladesh in the Bay of Bengal using proprietary technology which scans vast areas for specific metals or minerals. HOW/WHY WAS THIS IGNORED??? Time to take a closer look.
+
+So that's where the hijackers are keeping the plane! Good thing they found it before it could be flown to North America, enter US airspace, negotiate all military defenses and crash directly into the Oval Office, specifically. That was a close one, Yahoo commenters. chuckle
+
+*Devil's Advocate*: Okay, they linked it via the maintenance records to MH370. Question #1: When did they get those maintenance records? Question #2: Are they certain that the maintenance records were not manipulated before they received them? Issue: If they they didn't receive the records until after they got the part, then there's a bigger possibility the records could have been manipulated for planted evidence. Issue: Until a sufficient percentage of the plane is found, it's still hard to say that this is not planted to throw off an investigation. For instance, Malaysia has been under enough fire over this whole incident that they could just want to try to close the case. Manipulating records and planting some evidence would be a good way to do that. Now, I'm going to say that the above is unlikely since one would have to replicate a part (or several parts), manipulate maintenance records, etc to do so. However, any group that is sufficiently funded and keen on details could certainly pull it off. Thus finding some bigger parts (e.g the fuselage, tail section, etc) is certainly the only want to fully put any conspiracies that it actually took the northern arc to rest. Just saying...
+
+One of the theories is that the pilot killed the crew & passengers with hypoxia by taking the plane too high early in the flight. The guy obviously planned this out since the co-pilot apparently made no attempt to save the plane and all tracking systems were disabled.
+
 -------------------	events specific	-------------------
-What way to die._______Crack into the water & ??.
+no, ovni, it's not the ONLY plane that has gone missing in the indian ocean but it IS the only 777 in the world that is not accounted for...10 minutes after they found the piece they said, "this piece is from a boeing 777 and we know where EVERY 777 is in the world except one!!"...the fact that they're french goes a long way toward explaining the delay...it took a month because they were looking for someone to surrender to...not finding anyone, they confirmed their earlier findings...
 
-Destiny, the wing floated to Reunion, so I'm sure they are looking around Reunion for more floating debris since it would travelled along with the wing. But as far as the plane goes...IT"S NOT EVEN CLOSE TO REUNION.
+It's great the French have confirmed the wing part as being from the MH370. If everybody is not in agreement, what's the plan to find the plane? It really irritates me when "EVERYONE" has to have their say before anything happens. Is "EVERYONE" trying to claim they are the only authority that matters" Politics at it's worse.
 
-That part was floating around for a year. No way to know how far it drifted.
+Courtney Love could have come to this conclusion the day it was found.
 
-How many flaperons are their floating around in the ocean?
+They needed to be ABSOLUTELY certain the part was from MH370. Who's to say that a similar wing segment simply slipped through the cracks in their accounting system and found its way into the ocean? They needed a serial number or something else to uniquely link it to the missing plane. I don't hold out much hope for them ever finding the wreckage of the missing plane, however. The ocean is a pretty big place and when you don't have an approximate location, a search is pretty hopeless.
 
-er... parts floating in the water bob UP AND DOWN... and half of it is ALWAYS going to be under water. And not having seen which water tight sections were still 'water tight', it's likely that the wing didn't float "flat" but bobbed upright like a pencil.
+Well, after exhaustive study we haven't found a plane anywhere what be missing a flaperon so dis' one must be from da' missin' plane. Yep, dat's where it come from. Our highly trained personnel and investigators came to that conclusion last evening while at Al's Ale Palace.
 
-The flaperon could have floated into shallow waters after the crash. In that amount of time, it could have traveled hundreds of mile, bobbing in the water, hence the barnacles...
+Wow, thanks France. You have an amazing ability to notify the world of something that everyone else knew on the day it was found.
 
-?? Reunion is an island, it washed up on the beach.
+Give it up. The plane is gone. The passengers are dead.
 
-Okay, so where is the rest of MH370??? Where are floating seat cushions, floating debris, floating luggage, floating cargo, bodies??? Something ain't right here.
+@ralphie - Why is the plane gone?
 
-How did the wing part get so far up on the beach from the water? Why was it just discovered? Was it planted?
+The powers that be want this story to end and if the plane parts found on or off some island can be construed to be from the missing plane it will happen. End of story
 
-If MH370 plummeted from 30,000 feet from the air and was decimated on impact and not one (NOT ONE) of over 300 floating airline seats or parts of floating life saving floating seats in water didn't surface to the top of the ocean and stayed intact on impact? There looking for a scapegoat. This wing found is a load of #$%$. Floating seat devices never have not floated to the top before. That really doesn't make me feel safe about using an airline seat as a floating device because they don't float. It's a joke. That plane is not in the ocean. I don't know where it is, but its not the ocean and that wing isn't from MH370 I don't care what they say.
+of course I have but not a huge passenger plane
 
 -------------------	comments specific	-------------------
 What do Koala bears have to do with it?
 
-77.7 IQ points missing from Tailgator
+There is no basis for any of your assertions.
 
-There is no other missing 777 in the world. The jibberish is yours
+The names of the PlLOTS have finaIIy been reIeased...... Captain H0 LEE F0K and Co-PiIot WEl G0NG Dl.
 
-And in other news, sources at the ministry of nonsense and buffoonery have confirmed that Topsuite is a charter member
+In all likelihood they were unconscious.
 
-It wasn't confirmed until France confirmed it.
+I wish I were in on this cash cow...
 
-confirmed, the confirmation of the confirmation was confirmed...
+How can he smell if he is wearing scuba gear?
 
-I heard it on the news weeks ago it was confirmed...
+Now what word best describes this confirmation....I know,DUH!!!!!!!!!!!
 
-@J P Hangedwell - I think the collective wit of the yahoo readership exceeds the collective wit of the yahoo writers.
+Google "QRS11"…… and do some digging.
 
-They thought there might have been another 777 missing in our parallel universe!
+you sir are insane right wingnut
 
-I think termites chewed through the control cabls.
+Which president? They all have motive. Hmmmmmm!
 
