@@ -102,8 +102,8 @@ class ModelHandler(object):
     def inference(self,):
         #e_matrix = np.delete(self.event_matrix, [2,:], axis=0)
         e_matrix = self.event_matrix
-        d_matrix = self.news_matrix_list[66]
-        c_matrix = self.comments_matrix_list[66]
+        d_matrix = self.news_matrix_list[64]
+        c_matrix = self.comments_matrix_list[64]
         mf = ner_mf.NER_MF(e_matrix, d_matrix, c_matrix)
         Wd, Hd, Md, We, He, Me, Wc, Hc = mf.factorize()
         return Wd, Hd, Md, We, He, Me, Wc, Hc
@@ -135,17 +135,21 @@ class ModelHandler(object):
 
         d_value = Wc.dot(Md)
         norm_d_value = np.sqrt(np.sum(d_value * d_value, axis=1) + 0.000001)[:, np.newaxis]
-        d_value = np.where(norm_d_value!=0.0, d_value/norm_d_value, 0.)
+        d_value_vec = np.where(norm_d_value!=0.0, d_value/norm_d_value, 0.)
         Wd = Wd / np.sqrt(np.sum(Wd * Wd, axis=1))[:, np.newaxis]
-        d_sim_matrix = d_value.dot(Wd.transpose())
-        d_value = np.mean(d_sim_matrix, axis=1)
+        d_sim_matrix = d_value_vec.dot(Wd.transpose())
+        print d_sim_matrix
+        d_value = np.amax(d_sim_matrix, axis=1)
+        d_index_value = np.argmax(d_sim_matrix, axis=1)
         
         e_value = Wc.dot(Me)
         norm_e_value = np.sqrt(np.sum(e_value * e_value, axis=1) + 0.000001)[:, np.newaxis]
         e_value = np.where(norm_e_value!=0.0, e_value/norm_e_value, 0.)
         We = We / np.sqrt(np.sum(We * We, axis=1))[:, np.newaxis]
-        e_sim_matrix = e_value.dot(We.transpose())
-        e_value = np.mean(e_sim_matrix, axis=1)
+        #e_sim_matrix = e_value.dot(We.transpose())
+        #e_value = np.mean(e_sim_matrix, axis=1)
+        We_mean = np.mean(We, axis=0)
+        e_value = e_value.dot(We_mean)
 
         c_value = e_value * d_value
         
@@ -155,7 +159,16 @@ class ModelHandler(object):
         output.write('-------------------\t{0}\t-------------------\n'.format('news specific'))
         for c_index in reversed(np.argsort(d_value)):
             i += 1
-            output.write(self.raw_comments_list[f_index][c_index] + '\n')
+            output.write(self.raw_comments_list[f_index][c_index])
+            output.write(d_value_vec[c_index])
+            output.write('\n')
+            word_index_list = self.news_matrix_list[f_index][d_index_value[c_index]]
+            temp_content = ' '.join([self._index_to_type[x] for x,y in enumerate(word_index_list) if y > 0])
+            output.write(temp_content + '\n')
+            output.write(Wd[d_index_value[c_index]])
+            output.write('\n')
+            output.write(str(d_value[c_index]) + '\n')
+            output.write('\n')
             if top_display > 0 and i >= top_display:
                 break
         i = 0
@@ -180,7 +193,7 @@ if __name__=='__main__':
     mh = ModelHandler('./data/mh370')
     mh.parse_data()
     Wd, Hd, Md, We, He, Me, Wc, Hc = mh.inference()
-    mh.export_topic(Hd, './data/mh370/output', 66, 'hd')
-    mh.export_topic(He, './data/mh370/output', 66, 'he')
-    mh.export_topic(Hc, './data/mh370/output', 66, 'hc')
-    mh.export_comments(Wd, Hd, Md, We, He, Me, Wc, Hc, './data/mh370/output', 66, 'test')
+    mh.export_topic(Hd, './data/mh370/output', 64, 'hd')
+    mh.export_topic(He, './data/mh370/output', 64, 'he')
+    mh.export_topic(Hc, './data/mh370/output', 64, 'hc')
+    mh.export_comments(Wd, Hd, Md, We, He, Me, Wc, Hc, './data/mh370/output', 64, 'test')
